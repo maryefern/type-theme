@@ -46,11 +46,10 @@ top: 15%;
 
 // Subscribe Form
 img.freddy { 
-    width: 140px;
+    width: 130px;
     position: absolute;
-    top: -8%;
-    right: 50%;
-    margin-right: -60px;
+    top: -90px;
+    margin-right: 50%;
     z-index: 99;
 }
 .signup { 
@@ -77,8 +76,8 @@ img.freddy {
     display: inline-block; 
 } /* positions button horizontally in line with input */
 #mc-embedded-subscribe { 
-    background-color: #ecf05c; 
-    border: 2px solid #ecf05c; 
+    background-color: #a4f143; 
+    border: 2px solid #a4f143; 
     color: inherit; 
 }
 #mc-embedded-subscribe:hover { 
@@ -134,20 +133,23 @@ img.freddy {
     color: $header-desc-text-color;
 }
 .call-out {
-    padding: 6% 10%;
+    text-align: center;
+    @extend %padding-regular;
     display: inline-block;
     width: 100%;
     background-color:$header-desc-background-color;
     background-size: cover;
-    font-size: 1.2em;
-    text-align: center;
     color: $header-desc-text-color;
+}
+.call-out h2 { margin-top: 0; }
+
+.green-signup { 
+    background-color: #69c400;
+    padding: 1%;
+    text-align: center;
+    color: #383838;
     position: relative;
-}
-@media only screen and (max-width: 480px) {
-    .call-out:first-child {
-        padding-top: 15%;
-}
+    margin-top: 0;
 }
 
 .color { 

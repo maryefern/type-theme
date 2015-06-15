@@ -15,8 +15,7 @@ theme:
 
   header_text_feature_image:
   footer_text: >
-   <em>Copyright © 2015 Mary E. Fernandez (that human) & Frederick Theodophilus III (the frog)</em>
-   <p>To quote material, kindly:</p><p>1) Ask for our permission first<br>2) Cite us as your source<br>3) Do not misquote</p><p>Thank you!</p>
+   <em>Copyright © 2015 Mary E. Fernandez</em>
 
   # Icons
   rss: false
