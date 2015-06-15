@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact
+permalink: /contact/
 hide: true
 ---
 
-<img src="/img/photoshoot-left.jpg">
+<img src="/img/cellphone.jpg">
 
 Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
 

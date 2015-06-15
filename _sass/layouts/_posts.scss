@@ -47,3 +47,9 @@ header {
     @extend %padding-regular;
   }
 }
+.opt-in {
+    background-color: #f4f4f4;
+    @extend %padding-small;
+    text-align: center;
+    margin-top: 6%;
+}

@@ -1,17 +1,175 @@
-// Header text feature
-.call-out {
+// Speech bubbles
+.bubble-left 
+{
+position: relative;
+width: auto;
+height: auto;
+@extend %padding-small;
+background: #F7f7f7;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: rgba(0,0,0,0.1) solid 1px;
+    text-align: center;
+}
+
+.bubble-left:after 
+{
+content: '';
+position: absolute;
+border-style: solid;
+border-width: 15px 15px 15px 0;
+border-color: transparent #F7f7f7;
+display: block;
+width: 0;
+z-index: 1;
+left: -15px;
+top: 15%;
+}
+
+.bubble-left:before 
+{
+content: '';
+position: absolute;
+border-style: solid;
+border-width: 15px 15px 15px 0;
+border-color: transparent rgba(0,0,0,0.1);
+display: block;
+width: 0;
+z-index: 0;
+left: -16px;
+top: 15%;
+}
+
+// Full-width
+.full-width { width: 100%;   @extend %padding-regular; }
+
+// Subscribe Form
+img.freddy { 
+    width: 140px;
+    position: absolute;
+    top: -8%;
+    right: 50%;
+    margin-right: -60px;
+    z-index: 99;
+}
+.signup { 
+    background-color: rgba(255, 255, 255, 0.9); 
+    text-align: center;   
+    padding: 1% 3%;
+    position: relative;
+    border-radius: 10px;
+    margin-left: 50%;
+}
+/*  GO FULL WIDTH BELOW 480 PIXELS */
+@media only screen and (max-width: 480px) {
+    .signup { margin-left: 0; }
+}
+
+.call-out .bubble-left {
+    margin-left: 50%;
+}
+
+.mc-field-group { 
+    display: inline-block; 
+} /* positions input field horizontally */
+.clear { 
+    display: inline-block; 
+} /* positions button horizontally in line with input */
+#mc-embedded-subscribe { 
+    background-color: #ecf05c; 
+    border: 2px solid #ecf05c; 
+    color: inherit; 
+}
+#mc-embedded-subscribe:hover { 
+    background-color: #f7f7f7; 
+    color: inherit; 
+}
+.mc-field-group input { 
+    padding: 0.5em 0.75em; 
+}
+
+/*  COLUMNS  */
+.columns {
+	clear: both;
   @extend %padding-regular;
-  display: inline-block;
-  width: 100%;
-  background-color:$header-desc-background-color;
-  background-size: cover;
-  font-size: 1.2em;
-  text-align: center;
-  color: $header-desc-text-color;
+	margin: 0px;
 }
-.call-out p:last-child {
-  margin-bottom: 0;
+
+/*  COLUMN SETUP  */
+.col {
+	display: block;
+	float:left;
+	margin: 1% 0 1% 3%;
 }
+.col:first-child { margin-left: 0; }
+
+/*  GROUPING  */
+.group:before,
+.group:after { content:""; display:table; }
+.group:after { clear:both;}
+.group { zoom:1; /* For IE 6/7 */ }
+
+/*  GRID OF THREE  */
+.span_3_of_3 { width: 100%; }
+.span_2_of_3 { width: 77%; }
+.span_1_of_3 { width: 20%; margin-left: 0; }
+
+/*  GO FULL WIDTH BELOW 480 PIXELS */
+@media only screen and (max-width: 480px) {
+	.col {  margin: 1% 0 1% 0%; }
+	.span_3_of_3, .span_2_of_3, .span_1_of_3 { width: 100%; }
+}
+
+// Header text feature
+.webinar {
+    padding: 6% 6% 25% 6%;
+    display: inline-block;
+    width: 100%;
+    background-image: url("/img/hortonplaza.jpg");
+    background-color:$header-desc-background-color;
+    background-size: cover;
+    font-size: 1.2em;
+    text-align: center;
+    color: $header-desc-text-color;
+}
+.call-out {
+    padding: 6% 10%;
+    display: inline-block;
+    width: 100%;
+    background-color:$header-desc-background-color;
+    background-size: cover;
+    font-size: 1.2em;
+    text-align: center;
+    color: $header-desc-text-color;
+    position: relative;
+}
+@media only screen and (max-width: 480px) {
+    .call-out:first-child {
+        padding-top: 15%;
+}
+}
+
+.color { 
+    background-color: #ecf05c;
+    @extend %padding-regular;
+    text-align: center;
+    
+}
+
+// Buttons
+.yellow {
+    background-color: #ecf05c;
+    border: 2px solid #ecf05c !important;
+    color: inherit;
+}
+.yellow:hover {
+    background-color: #f7f7f7 !important;
+    border-color: #ecf05c !important;
+    color: inherit !important;
+    border: 2px solid #ecf05c !important;
+}
+
 // Post listing
 .posts {
   .post-teaser {
