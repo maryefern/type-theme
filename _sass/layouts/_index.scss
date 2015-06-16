@@ -109,8 +109,8 @@ top: 15%;
     color: #383838; 
 }
 #mc-embedded-subscribe:hover { 
-    background-color: transparent; 
-    color: inherit; 
+    background-color: transparent;  
+    color: #ecf05c; 
 }
 .mc-field-group input { 
     padding: 0.5em 0.75em; 
@@ -181,9 +181,10 @@ top: 15%;
     @extend %padding-regular;
     display: inline-block;
     width: 100%;
-    background-color: #f7f7f7;
+    background-color: #e3f8f7;
     margin-top: -5px;
     position: relative;
+    font-size: 1.2em;
 }
 .feature-text h1, .feature-text h2 { margin: 0 0 1% 0; }
 
@@ -197,7 +198,8 @@ top: 15%;
 }
 
 .color { 
-    background-color: #ecf05c;
+    background-color: #444349;
+    background-image: url("/img/stardust.png");
     padding: 1% 5%;
     text-align: center;
     margin-top: -5px;
