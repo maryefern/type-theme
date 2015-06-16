@@ -6,8 +6,8 @@ url: "http://persuasiveblog.com"
 theme:
   # Meta
   title: Persuasive Blog
-  avatar: freddy.png
-  gravatar: # Email MD5 hash
+  avatar: 
+  gravatar: 1426c34fb2ce4d641018dc5f8b0790b1 # Email MD5 hash
   description: "Persuasive blogging strategies made so simple that anyone can incite action. Become a thought leader. Even change the world." # used by search engines
 
   # Header and footer text

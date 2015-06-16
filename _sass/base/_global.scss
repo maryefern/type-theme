@@ -34,16 +34,15 @@ h1 {
 h2 {
   font-size: 2em;
 }
-h2 span { background-color: rgba(255, 255, 255, 0.8); padding: 0 1% 0 1%;}
 h3 {
   font-size: 1.5em;
 }
 h4 {
   font-size: 1.15em;
 }
+.excerpt p { font-size: 0.95em; }
 p.small { font-size: 0.7em; }
 p.regular { font-size: 0.95em; }
-p span { background-color: rgba(255, 255, 255, 0.8); padding: 0 1% 0 1%;}
 .subhead {
     font-size: 1.2em;
 }
@@ -123,3 +122,4 @@ img[align=left] {
 img[align=right] {
   margin-left: 3%;
 }
+.fa-6 { font-size: 4em !important; margin-bottom: 1%; }

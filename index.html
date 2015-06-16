@@ -6,8 +6,10 @@ layout: default
   {% if site.theme.header_text %}
   <div class="call-out">
     {{ site.theme.header_text }}
-      <h2>Be influential.</h2>
-     <p>Persuasive blogging strategies made so simple that anyone can incite action. Become a thought leader. Change the course of human history. (Well, maybe.)</p>
+  </div>
+  {% endif %}
+    
+    <div class="color">
                   <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
 <form action="//balletuni.us2.list-manage.com/subscribe/post?u=75b9df90ac1215bc15b44301c&amp;id=da4fddc829" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -23,24 +25,28 @@ layout: default
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;"><input type="text" name="b_75b9df90ac1215bc15b44301c_da4fddc829" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button blue"></div>
     </div>
 </form>
 </div>
 <!--End mc_embed_signup-->
-      <p class="small">Sign up above to hear about my free webinars, updates and insider info.</p>
-  </div>
-  {% endif %}
+    </div>
+
+    <div class="feature-text">
+        <i class="fa fa-level-up fa-6"></i>
+    <h1>Be influential</h1>
+     <p>Persuasive blogging strategies made so simple that anyone can incite action. Become a thought leader. Change the course of human history. (Well, maybe.)</p><p>Enter your email above to get access to the free webinars, updates and insider info.</p>
+    </div>
     
-  <div class="posts">
+          <div class="posts">
     {% for post in paginator.posts %}
     <div class="post-teaser">
       <header>
-        <h1>
+        <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
             {{ post.title }}
           </a>
-        </h1>
+        </h2>
         <p class="meta">
           {{ post.date | date: "%B %-d, %Y" }}
         </p>
@@ -53,8 +59,7 @@ layout: default
       </div>
     </div>
     {% endfor %}
-  </div>
-
+        </div>
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
     {% if paginator.previous_page %}
@@ -71,4 +76,5 @@ layout: default
     {% endif %}
   </div>
   {% endif %}
+
 </div>

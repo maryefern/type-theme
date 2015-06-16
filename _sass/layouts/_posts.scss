@@ -1,9 +1,9 @@
 article,
 .comments {
   @extend %padding-regular;
-  border-bottom: 1px solid $border-color;
   float: left;
   width: 100%;
+    border-bottom: 1px solid $border-color;
 }
 article {
   header {
@@ -18,7 +18,7 @@ article {
   }
 }
 header {
-  h1 {
+  h1, h2 {
     margin: 0;
   }
   .meta {
@@ -48,8 +48,10 @@ header {
   }
 }
 .opt-in {
-    background-color: #f4f4f4;
+    background-color: #444349;
+    background-image: url("/img/stardust.png");
     @extend %padding-small;
     text-align: center;
     margin-top: 6%;
+    color: #fff;
 }

@@ -1,3 +1,13 @@
+// Author image
+
+img.author {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    border: 1px solid rgba(0,0,0,0.1);
+    text-align: center;
+}
+
 // Speech bubbles
 .bubble-left 
 {
@@ -45,12 +55,30 @@ top: 15%;
 .full-width { width: 100%;   @extend %padding-regular; }
 
 // Subscribe Form
-img.freddy { 
-    width: 130px;
+.freddy { 
+    width: 120px;
+    position: absolute;
+    top: -60px;
+    right: 50%;
+    margin-right: -60px;
+    z-index: 99;
+    border: 3px solid #f4f4f4;
+    background-color: #f4f4f4;
+      border-radius: 50%;
+    webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+}
+.freddy-container {
+    position: relative;
+}
+.overlap { 
     position: absolute;
     top: -90px;
-    margin-right: 50%;
+    right: 50%;
+    margin-right: -60px;
     z-index: 99;
+    color: #ecf05c;
 }
 .signup { 
     background-color: rgba(255, 255, 255, 0.9); 
@@ -76,12 +104,12 @@ img.freddy {
     display: inline-block; 
 } /* positions button horizontally in line with input */
 #mc-embedded-subscribe { 
-    background-color: #a4f143; 
-    border: 2px solid #a4f143; 
-    color: inherit; 
+    background-color: #ecf05c; 
+    border: 2px solid #ecf05c; 
+    color: #383838; 
 }
 #mc-embedded-subscribe:hover { 
-    background-color: #f7f7f7; 
+    background-color: transparent; 
     color: inherit; 
 }
 .mc-field-group input { 
@@ -138,10 +166,26 @@ img.freddy {
     display: inline-block;
     width: 100%;
     background-color:$header-desc-background-color;
+    background-image: url("/img/southpark.jpg");
     background-size: cover;
     color: $header-desc-text-color;
+    height: 475px;
 }
-.call-out h2 { margin-top: 0; }
+@media only screen and (max-width: 480px) {
+    .call-out { height: 200px; }
+}
+.call-out h1, .call-out h2 { margin: 0 0 1% 0; }
+
+.feature-text {
+    text-align: center;
+    @extend %padding-regular;
+    display: inline-block;
+    width: 100%;
+    background-color: #f7f7f7;
+    margin-top: -5px;
+    position: relative;
+}
+.feature-text h1, .feature-text h2 { margin: 0 0 1% 0; }
 
 .green-signup { 
     background-color: #69c400;
@@ -154,40 +198,49 @@ img.freddy {
 
 .color { 
     background-color: #ecf05c;
-    @extend %padding-regular;
+    padding: 1% 5%;
     text-align: center;
-    
+    margin-top: -5px;
 }
 
 // Buttons
-.yellow {
-    background-color: #ecf05c;
-    border: 2px solid #ecf05c !important;
+.blue {
+    background-color: #01e7e0 !important;
+    border: 2px solid #01e7e0 !important;
     color: inherit;
 }
-.yellow:hover {
-    background-color: #f7f7f7 !important;
-    border-color: #ecf05c !important;
+.blue:hover {
+    background-color: transparent !important;
     color: inherit !important;
-    border: 2px solid #ecf05c !important;
+    border: 2px solid #01e7e0 !important;
 }
 
 // Post listing
 .posts {
   .post-teaser {
     @extend %padding-regular;
-    width: 100%;
     margin-bottom: 0;
     display: inline-block;
     background-size: $feature-image-size;
-    border-bottom: 1px solid $border-color;
     p a:hover {
       @extend %link-hover;
+    border-bottom: 1px solid $border-color;
     }
   }
   .excerpt {
     margin-top: 1em;
   }
+}
+      @media only screen and (max-width: 480px) {
+          .posts .post-teaser { padding: 7.5% 12.5%; }
+      }
+.sidebar {
+    padding: 5% 5% 1% 0%;
+}
+@media only screen and (max-width: 480px) {
+    .sidebar {
+        padding: 5%;
+    }
 }
 // Pagination
 .pagination .button {
