@@ -2,4 +2,4 @@
 layout: post
 title: Blog Coming Soon
 ---
-The PB blog is coming soon! In the meantime, sign up to hear about my free webinars by entering your email below.
+The PB blog is coming soon with content marketing strategies for you to rocket-launch your online business out of this world! In the meantime, make sure you are signed up to hear about my free webinars by entering your email below.
