@@ -126,8 +126,35 @@ img[align=left] {
 img[align=right] {
   margin-left: 3%;
 }
+
+// Font Awesome
+
+a .fa {
+    -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+a .fa:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.2);
+}
 .fa-6 { font-size: 3em !important; margin: 0; }
 
+// Buttons
+
+.button {
+    -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+.button:hover {
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+    transform: scale(1.05);
+}
 
 // Speech bubbles
 .bubble-left 
@@ -216,10 +243,17 @@ top: 50%;
     background-color: #ecf05c; 
     border: 2px solid #ecf05c; 
     color: #383838; 
+    -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
 }
 #mc-embedded-subscribe:hover { 
     background-color: transparent;  
     color: #ecf05c; 
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+    transform: scale(1.05);
 }
 .mc-field-group input, .signup-title { 
     padding: 0.5em 0.75em; 

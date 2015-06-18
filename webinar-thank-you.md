@@ -42,7 +42,7 @@ hide: true
     <span class="_alarm_reminder">15</span>
     </div>
     <p></p>
-    <p>One more thing– don't forget to add it to your calendar! Just click the convenient "Add to Calendar" button above.</p>
+    <p>One more thing– don't forget to add it to your calendar! Just click the handy-dandy "Add to Calendar" button above.</p>
         </div>
 
     </div>
