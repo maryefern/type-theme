@@ -17,6 +17,26 @@ theme:
   footer_text: >
    Copyright © 2015 Mary E. Fernandez
 
+  # Webinar
+  webinar_title: "Blogging for Business 101: How to Go From a Total Nobody to the #1 Go-To Expert in Your Field"
+  webinar_date: "26"
+  webinar_day: "Friday"
+  webinar_month: "June"
+  webinar_time: "10:00 am Pacific / 12:00 pm Central / 1:00 pm Eastern"
+  webinar_start: "06/26/2015 10:00 AM"
+  webinar_end: "06/26/2015 11:00 AM"
+  webinar_date_format: "06/26/2015"
+  webinar_benefits: >
+    <ul class="benefits" id="benefits">
+    <h4>Hi! I'm Mary Fernandez (a self-proclaimed blogoholic). In this free training, I'll show you:</h4>
+    <li>The key reason why most blogs FAIL to bring in the dough. (Hint: it does NOT have to do with creating more, or higher-quality content.)</li>
+    <li>Why becoming the go-to expert in your field isn't as hard as you might think, and why you never have to be a fraud, or "fake it 'till you make it."</li>
+    <li>How to discover what you are already an expert in and get paid for it, even if you have ZERO skills. Seriously.</li>
+    <li>How to grow your following and your credibility at the SPEED OF LIGHT (well, something like that), on a tight budget.</li>
+    <li>How to stand out in a crowded blogosphere and dominate your niche.</li>
+    </ul>
+  list_id: "c242d637ac"
+  
   # Icons
   rss: false
   email_address: # Full email address, e.g. "sam@example.com"
