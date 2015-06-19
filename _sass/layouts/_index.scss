@@ -17,10 +17,20 @@
     }
 }
 
-.h-subscribe { 
+.home-text {
+    @extend %padding-regular;
     background-color: #f7f7f7;
+}
+.home-text h3 {
     text-align: center;
-    padding: 7.5% 12.5% 5% 12.5%;
+}
+
+.h-subscribe { 
+    background-color: #444349;
+    background-image: url("/img/stardust.png");
+    color: #fff;
+    text-align: center;
+    @extend %padding-small;
     margin-top: -5px;
 }
 .h-subscribe h3, .h-subscribe h4 {
