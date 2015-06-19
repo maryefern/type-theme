@@ -270,6 +270,14 @@ top: 50%;
 .full-width {
     width: 100%;
 }
+@media only screen and (max-width: 480px) {
+    #mc-embedded-subscribe, .mc-field-group, .mc-field-group input, .signup-title, {
+    width: 100%;
+    }
+    .horizontal .clear {
+        display: initial;
+    }
+}
 .signup-title p { margin-bottom: 0; }
 
 /*  COLUMNS  */
@@ -515,7 +523,7 @@ top: 50%;
 	font-size: 1.5rem;
 	line-height: 1;
 	color: #fff;
-	background: #28638d;
+	background: #72d229;
 }
 .calendar__date {
 	display: block;
@@ -582,7 +590,7 @@ top: 50%;
 	left: 0;
 	font-family: FontAwesome;
 	font-size: 1.5rem;
-	color: #28638d;
+	color: #72d229;
 }
 
 /*  GO FULL WIDTH BELOW 480 PIXELS */
