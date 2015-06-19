@@ -13,13 +13,14 @@
 
 @media only screen and (max-width: 480px) {
     .hero {
-        height: 250px;
+        min-height: 250px;
     }
 }
 
 .home-text {
     @extend %padding-regular;
     background-color: #f7f7f7;
+    margin-top: -5px;
 }
 .home-text h3 {
     text-align: center;
@@ -31,7 +32,6 @@
     color: #fff;
     text-align: center;
     @extend %padding-small;
-    margin-top: -5px;
 }
 .h-subscribe h3, .h-subscribe h4 {
     margin-top: 0;

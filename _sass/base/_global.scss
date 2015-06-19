@@ -136,6 +136,10 @@ hr.dashed-line {
     margin-bottom: 0;
 }
 
+.dark-back {
+    color: #fff;
+}
+
 // Font Awesome
 
 a .fa {
@@ -627,6 +631,8 @@ top: 50%;
 	text-align: center;
 	color: #fff;
 	background: #444349;
+    background-color: #444349;
+    background-image: url("/img/stardust.png");
 	position: relative;
 }
 .warning__cta:after {
