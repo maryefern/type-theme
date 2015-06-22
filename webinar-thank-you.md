@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: webinar-thank-you
 title: Thank You
 permalink: /webinar-thank-you/
 hide: true
