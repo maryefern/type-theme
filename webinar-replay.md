@@ -22,6 +22,9 @@ hide: true
             </div>
 
 <div class="padding-regular">
+
+<h4><a href="https://www.evernote.com/shard/s217/sh/318e3f4c-9966-42f8-92de-c88826397ff9/6a8b710d5c63d177" target="0">Click here to download the notes from this webinar!</a></h4>
+
 <center><iframe width="768" height="436" src="//www.youtube.com/embed/xDTm9TWnG7Y" frameborder="0" allowfullscreen></iframe></center>
 
 <div class="fb-comments" data-href="http://www.persuasiveblog.com/webinar" data-width="768px" data-numposts="10"></div>
