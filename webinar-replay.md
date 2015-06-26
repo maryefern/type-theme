@@ -8,7 +8,7 @@ hide: true
 <div class="container-fluid">
             <div id="invite-header" class="row">
                     <h1>LIVE Training</h1>
-                    <h3>"{{ site.theme.webinar_title }}"</h3>
+                    <h4>"{{ site.theme.webinar_title }}"</h4>
                     <p>This webinar will go LIVE on {{ site.theme.webinar_day }}, {{ site.theme.webinar_month }} {{ site.theme.webinar_date }} at {{ site.theme.webinar_time }}. In the meantime, invite your friends to the party!</p>
             </div>
             <!--social-->
