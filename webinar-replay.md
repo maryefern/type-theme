@@ -8,7 +8,7 @@ hide: true
 <div class="container-fluid">
             <div id="invite-header" class="row">
                     <h1>LIVE Training</h1>
-                    <h4>"{{ site.theme.webinar_title }}"</h4>
+                    <h3>"{{ site.theme.webinar_title }}"</h3>
                     <p>This webinar will go LIVE on {{ site.theme.webinar_day }}, {{ site.theme.webinar_month }} {{ site.theme.webinar_date }} at {{ site.theme.webinar_time }}. In the meantime, invite your friends to the party!</p>
             </div>
             <!--social-->
@@ -23,8 +23,6 @@ hide: true
             </div>
 
 <div class="padding-regular">
-
-<h4><a href="https://www.evernote.com/shard/s217/sh/318e3f4c-9966-42f8-92de-c88826397ff9/6a8b710d5c63d177" target="0">Click here to download the notes from this webinar!</a></h4>
 
 <center><iframe width="768" height="436" src="//www.youtube.com/embed/HSu0PGDMrjE" frameborder="0" allowfullscreen></iframe></center>
 
