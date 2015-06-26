@@ -19,21 +19,22 @@ theme:
 
   # Webinar
   webinar_title: "How to Get Your First 500 Subscribers in 60 Days for the Price of a Cup of Coffee"
-  webinar_date: "24"
-  webinar_day: "Wednesday"
-  webinar_month: "June"
-  webinar_time: "10:00 am Pacific / 12:00 pm Central / 1:00 pm Eastern"
-  webinar_start: "06/24/2015 10:00 AM"
-  webinar_end: "06/24/2015 11:00 AM"
-  webinar_date_format: "06/24/2015"
+  webinar_date: "2"
+  webinar_day: "Thursday"
+  webinar_month: "July"
+  webinar_time: "12:00 pm Pacific / 2:00 pm Central / 3:00 pm Eastern"
+  webinar_start: "07/02/2015 12:00 PM"
+  webinar_end: "07/02/2015 1:15 PM"
+  webinar_date_format: "07/02/2015"
   webinar_benefits: >
     <ul class="benefits" id="benefits">
-    <h4>Hi, I'm Mary Fernandez (a self-proclaimed blogoholic)! In this free training, I'll show you:</h4>
+    <h4>Hi, I'm Mary Fernandez! In this free training, I'll show you:</h4>
     <li>Exactly how I grew my list from 0 to 500 leads in approx. 60 days using Facebook Ads on a tiny budget of $5 per day. (That’s the cost of a Venti Caramel Frappuccino at Starbucks!)</li>
-    <li>How to set up your ad in Facebook's Power Editor.</li>
+    <li>How to create an offer that your ideal clients and customers can't resist.</li>
     <li>How to write ad copy that converts.</li>
     <li>How to create eye-catching images that attract the right people to your list.</li>
-    <li>The one simple thing you can do to cut your cost per lead in HALF and grow your list even faster.</li>
+    <li>How to set up and run your ad in Facebook's Power Editor.</li>
+    <li>The one simple thing you can do to potentially cut your cost per lead in HALF and grow your list even faster.</li>
     </ul>
   list_id: "c242d637ac"
   
