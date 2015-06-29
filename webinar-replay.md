@@ -8,7 +8,7 @@ hide: true
 <div class="container-fluid">
             <div id="invite-header" class="row">
                     <h1>LIVE Class</h1>
-                    <p>"{{ site.theme.webinar_title }}" will go LIVE on <strong>{{ site.theme.webinar_day }}, {{ site.theme.webinar_month }} {{ site.theme.webinar_date }}</strong> at {{ site.theme.webinar_time }}. In the meantime, invite your friends to the party! (Er, that is, "lesson"... in which we may party, because marketing is F-U-N fun!!)</p>
+                    <p>"{{ site.theme.webinar_title }}" will go LIVE on <strong>{{ site.theme.webinar_day }}, {{ site.theme.webinar_month }} {{ site.theme.webinar_date }}</strong> at {{ site.theme.webinar_time }}.</p>
             </div>
             <!--social-->
             <div id="social-bar" class="row social-bar">
@@ -21,10 +21,18 @@ hide: true
             
             </div>
 
-<div class="padding-regular">
+<article>
 
-<center><iframe width="768" height="436" src="//www.youtube.com/embed/HSu0PGDMrjE" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="768" height="436" src="//www.youtube.com/embed/HSu0PGDMrjE" frameborder="0" allowfullscreen></iframe>
+<h5><a href="https://plus.google.com/events/c17atiili9eqpor1j5c7g5mi9lo">Click here to view on Google+</a> | <a href="https://youtu.be/HSu0PGDMrjE">Click here to view on YouTube</a></h5>
+</center>
 
-<div class="fb-comments" data-href="http://www.persuasiveblog.com/webinar" data-width="768px" data-numposts="10"></div>
+</article>
 
+
+<!-- Disqus -->
+{% if site.theme.disqus_shortname %}
+<div class="comments">
+  {% include disqus.html %}
 </div>
+{% endif %}
