@@ -7,6 +7,11 @@ hide: true
 
 <div class="container-fluid">
             <div id="invite-header" class="row">
+                        <div class="progress">
+  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
+    <span class="sr-only">100% Complete!</span>
+  </div>
+  </div>
                     <h1>Invite a Friend</h1>
                     <p>Yay!! You’re all signed up for the live webinar. Check your inbox for an email from me with the full scoop in just a couple minutes. In the meantime, invite your friends to the show... the more the merrier!</p>
             </div>
