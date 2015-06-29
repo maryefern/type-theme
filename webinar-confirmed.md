@@ -8,7 +8,7 @@ hide: true
 <div class="container-fluid">
             <div id="invite-header" class="row">
                     <h1>Invite a Friend</h1>
-                    <p>Yay! You’re all signed up for the live webinar. Check your inbox for an email from me with the full scoop in just a couple minutes. In the meantime, invite your friends to the show... the more the merrier!</p>
+                    <p>Yay!! You’re all signed up for the live webinar. Check your inbox for an email from me with the full scoop in just a couple minutes. In the meantime, invite your friends to the show... the more the merrier!</p>
             </div>
             <!--social-->
             <div id="social-bar" class="row social-bar">
@@ -27,7 +27,7 @@ hide: true
     </div> 
     <div class="col span_1_of_2">
         <div class="bubble-left">
-            <h3>I'll see you on the webinar!</h3>
+            <h3>I'll see you on the webinar! Don't forget to add it to your calendar.</h3>
                 <div title="Add to Calendar" class="addthisevent" data-track="_gaq.push(['_trackEvent','AddThisEvent','click','ate-calendar'])">
     Add to Calendar
     <span class="start">{{ site.theme.webinar_start }}</span>
@@ -42,7 +42,7 @@ hide: true
     <span class="_alarm_reminder">15</span>
     </div>
     <p></p>
-    <p>One more thing– don't forget to add it to your calendar! Just click the handy-dandy "Add to Calendar" button above.</p>
+    <p>Just click the handy-dandy "Add to Calendar" button above.</p>
         </div>
 
     </div>
