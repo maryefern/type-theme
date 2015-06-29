@@ -23,7 +23,7 @@ hide: true
     <div class="col span_1_of_2">
         <div class="bubble-left">
         <div class="text-align-left"><h3>Here's how to complete your webinar registration:</h3>
-        <p><strong>Step 1.</strong> Go to your inbox and find the e-mail from me, Mary Fernandez. (If it's not there, check your spam folder!)</p><p><strong>Step 2.</strong> Open the e-mail and click on the button to confirm your e-mail address.</p><p><strong>Step 3.</strong> Your registration details will be sent to you!</p></div>
+        <p><strong>Step 1.</strong> Go to your inbox and find the e-mail from me, Mary Fernandez. (If it's not there, check your spam folder!)</p><p><strong>Step 2.</strong> Open the e-mail and click on the "Yes, subscribe me to this list" button.</p><p><strong>Step 3.</strong> Your registration details will be sent to you!</p></div>
         </div>
         &nbsp;
 <p class="small"><em>Pssst!</em> Sometimes genuine e-mails can get confused by the spam-checkers and sent to your spam folder. So if after confirming your e-mail address, you don't receive another e-mail from me within <strong>5 minutes</strong>, check your Promotions Tab (for Gmail users), and check your spam folder. If it's still not there, <a href="mailto:mary@persuasiveblog.com">shoot me an e-mail</a> and I'll help you out.</p>
