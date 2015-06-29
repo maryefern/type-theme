@@ -12,7 +12,7 @@ hide: true
     <span class="sr-only">67% Complete</span>
   </div>
   </div>
-                    <h1>Thank you. Just one more step!</h1>
+                    <h2>Thank you. Just one more step!</h2>
                     <p>You still need to confirm your e-mail address. If you skip this step, I will not be able to send you any e-mails, so I won't be able to save your spot in the webinar and you won't have access. Now isn't that enough to make a grown man cry??</p>
             </div>
 
