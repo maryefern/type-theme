@@ -28,8 +28,36 @@
      <!-- Bootstrap -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+	<!-- KaTeX -->
+	{% if site.theme.katex %}
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min.css">
+	<script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min.js"></script>
+	{% endif %}
     
-    <!-- Facebook Conversion Code for Opt-in to webinar -->
+    <!-- AddThisEvent -->
+    <script type="text/javascript" src="https://addthisevent.com/libs/1.6.0/ate.min.js"></script>
+    
+    <!-- Facebook Custom Audience -->
+    
+    <script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '1614318502167910']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1614318502167910&amp;ev=PixelInitialized" /></noscript>
+    
+        <!-- Facebook Conversion Code for Opt-in to webinar -->
     <script>(function() {
     var _fbq = window._fbq || (window._fbq = []);
     if (!_fbq.loaded) {
@@ -45,15 +73,6 @@
         window._fbq.push(['track', '6034411423186', {'value':'0.01','currency':'USD'}]);
     </script>
     <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6034411423186&amp;cd[value]=0.01&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
-
-	<!-- KaTeX -->
-	{% if site.theme.katex %}
-	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min.css">
-	<script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min.js"></script>
-	{% endif %}
-    
-    <!-- AddThisEvent -->
-    <script type="text/javascript" src="https://addthisevent.com/libs/1.6.0/ate.min.js"></script>
     
 	<!-- Google Analytics -->
 	{% if site.theme.google_analytics %}

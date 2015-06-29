@@ -16,8 +16,8 @@ hide: true
         <a href="#" class="overlay" id="webinar-sign-up"></a>
         <div class="popup">
 <div class="progress">
-  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">
-    <span class="sr-only">50% Complete</span>
+  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 33%">
+    <span class="sr-only">33% Complete</span>
   </div>
 </div>
 <p class="small no-margin-bottom">You're almost there! Enter your email and hit the yellow button below to sign up:</p>

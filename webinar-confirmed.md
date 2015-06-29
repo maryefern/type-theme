@@ -1,7 +1,7 @@
 ---
-layout: webinar-thank-you
+layout: landing
 title: Thank You
-permalink: /webinar-thank-you/
+permalink: /webinar-confirmed/
 hide: true
 ---
 
