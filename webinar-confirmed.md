@@ -12,7 +12,7 @@ hide: true
     <span class="sr-only">100% Complete!</span>
   </div>
   </div>
-                    <h1>Invite a Friend</h1>
+                    <h2>All done! Now invite a friend.</h2>
                     <p>Yay!! You’re all signed up for the live webinar. Check your inbox for an email from me with the full scoop in just a couple minutes. In the meantime, invite your friends to the show... the more the merrier!</p>
             </div>
             <!--social-->
