@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Live Webinar
+title: Live Webinar: "{{ site.theme.webinar_title }}"
 permalink: /webinar/
 hide: true
 ---
