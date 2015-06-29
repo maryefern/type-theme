@@ -49,7 +49,8 @@ hide: true
     <p></p>
     <p>Just click the handy-dandy "Add to Calendar" button above.</p>
         </div>
-
+        &nbsp;
+<p class="small"><em>Pssst!</em> Sometimes genuine e-mails can get confused by the spam-checkers and sent to your spam folder. So if you don't receive a new e-mail from me with your registration details in the next <strong>5 minutes</strong>, check your Promotions Tab (for Gmail users), and check your spam folder. If it's still not there, <a href="mailto:mary@persuasiveblog.com">shoot me an e-mail</a> and I'll help you out.</p>
     </div>
 </div>
           
