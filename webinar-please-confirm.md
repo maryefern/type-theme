@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: webinar-please-confirm
 title: Thank You
 permalink: /webinar-please-confirm/
 hide: true
