@@ -8,7 +8,7 @@ hide: true
 <div class="home">
 
 <div class="webinar-header">
-                <p class="meta">Live Webinar With Mary Fernandez</p>
+                <p class="meta">Free Class With Mary Fernandez</p>
                 <h3>"{{ site.theme.webinar_title }}"</h3>
 
 <a href="#webinar-sign-up" class="button cta-btn">Save My Seat Now</a>
