@@ -20,7 +20,7 @@ hide: true
     <span class="sr-only">33% Complete</span>
   </div>
 </div>
-<p class="small no-margin-bottom">You're almost there! Enter your email and hit the yellow button below to sign up:</p>
+<p class="small no-margin-bottom">Just two more steps to go! Enter your email and hit the yellow button below to sign up:</p>
 <hr class="dashed-line">
 <h3>Live Webinar on {{ site.theme.webinar_day }}, {{ site.theme.webinar_month }} {{ site.theme.webinar_date }}</h3>
             <h4>"{{ site.theme.webinar_title }}"</h4>
