@@ -32,7 +32,7 @@ hide: true
     </div> 
     <div class="col span_1_of_2">
         <div class="bubble-left">
-            <h3>I'll see you on the webinar! Don't forget to add it to your calendar.</h3>
+            <h3>I'll see you on the webinar! Don't forget to add it to your calendar:</h3>
                 <div title="Add to Calendar" class="addthisevent" data-track="_gaq.push(['_trackEvent','AddThisEvent','click','ate-calendar'])">
     Add to Calendar
     <span class="start">{{ site.theme.webinar_start }}</span>
