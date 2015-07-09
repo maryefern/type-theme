@@ -22,7 +22,7 @@ hide: true
     </div> 
     <div class="col span_1_of_2">
         <div class="bubble-left">
-        <div class="text-align-left"><h3>Here's how to complete your community registration:</h3>
+        <div class="text-align-left"><h3>Here's how to complete your membership:</h3>
         <p><strong>Step 1.</strong> Go to your inbox and find the e-mail from me, Mary Fernandez. (If it's not there, check your spam folder!)</p><p><strong>Step 2.</strong> Open the e-mail and click on the "Yes, subscribe me to this list" button.</p><p><strong>Step 3.</strong> You will be officially registered as a Persuasive Blogger, and your next steps and community access details will be sent to you!</p></div>
         </div>
     </div>
