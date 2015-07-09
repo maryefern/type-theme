@@ -13,7 +13,7 @@ hide: true
   </div>
   </div>
                     <h2>Thank you. Just one more step!</h2>
-                    <p>You still need to confirm your e-mail address. If you skip this LAST step, I will not be able to give you access to the Persuasive Bloggers community. (We need to make sure that you are a real person and not a robot!) So, if you ARE a real person, please go confirm your e-mail following the instructions below:</p>
+                    <p>You still need to confirm your e-mail address. If you skip this LAST step, I will not be able to give you your VIP access. (We need to make sure that you are a real person and not a robot!) So, if you ARE a real person, please go confirm your e-mail following the instructions below:</p>
             </div>
 
 <div class="columns group">
