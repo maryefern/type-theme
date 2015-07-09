@@ -33,7 +33,7 @@ hide: true
     <div class="col span_1_of_2">
         <div class="bubble-left">
             <h3>I'll see you soon! Look for my e-mail with your details in a few mins.</h3>
-<p class="small"><em>Pssst!</em> Sometimes genuine e-mails can get confused by the spam-checkers and sent to your spam folder. So if you don't receive a *NEW* e-mail from me with your FB access details in the next <strong>5 minutes</strong>, check your Promotions Tab (for Gmail users), and check your spam folder. If it's still not there, <a href="mailto:mary@persuasiveblog.com">shoot me an e-mail</a> and I'll help you out.</p>
+<p class="small"><em>Pssst!</em> Sometimes genuine e-mails can get confused by the spam-checkers and sent to your spam folder. So if you don't receive a *NEW* e-mail from me with your access details in the next <strong>5 minutes</strong>, check your Promotions Tab (for Gmail users), and check your spam folder. If it's still not there, <a href="mailto:mary@persuasiveblog.com">shoot me an e-mail</a> and I'll help you out.</p>
         </div>
 
     </div>
