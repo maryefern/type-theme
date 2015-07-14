@@ -48,10 +48,13 @@ hide: true
     </div>
     <p></p>
     <p>Just click the handy-dandy "Add to Calendar" button above.</p>
+    
         </div>
-        &nbsp;
-<p class="small"><em>Pssst!</em> Sometimes genuine e-mails can get confused by the spam-checkers and sent to your spam folder. So if you don't receive a *NEW* e-mail from me with your registration details in the next <strong>5 minutes</strong>, check your Promotions Tab (for Gmail users), and check your spam folder. If it's still not there, <a href="mailto:mary@persuasiveblog.com">shoot me an e-mail</a> and I'll help you out.</p>
     </div>
+    <div class="col span_2_of_2">
+            <p><em>Pssst!</em></p><p>Sometimes genuine e-mails can get confused by the spam-checkers and sent to your spam folder. So if you don't receive a *NEW* e-mail from me with your access details in the next <em>5-10 minutes</em>, check your Promotions Tab (for Gmail users), and check your spam folder.</p><p>If it's still not there, <a href="mailto:mary@persuasiveblog.com">shoot me an e-mail</a> and I'll gladly help you out.</p>
+    </div>
+
 </div>
           
         
