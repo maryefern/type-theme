@@ -4,8 +4,10 @@
   text-align: center;
     text-transform: uppercase;
   width: 100%;
-  color: rgba(56,56,56,0.5);
+  color: #fff;
   font-size: 0.9em;
 border-top: 1px solid $border-color;
     letter-spacing: 0.1em;
+    background-color: #444349;
+      background-image: url("/img/stardust.png");
 }

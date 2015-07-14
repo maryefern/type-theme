@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Thank You
-permalink: /community-confirmed/
+permalink: /confirmed/
 hide: true
 ---
 
