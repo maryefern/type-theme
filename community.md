@@ -5,7 +5,7 @@ permalink: /community/
 hide: true
 ---
 
-<div class="container-fluid gray">
+<div class="container-fluid">
             <div id="invite-header" class="row">
                     <h2>PERSUASIVE BLOGGERS</h2>
                     <p>Introducing the <em>brand new</em> Persuasive Bloggers community!</p><p>As a member, you'll get <em>free</em> writing prompts, headline critiques, traffic & list-building strategies and much more. Fill out the form below to join!</p>
