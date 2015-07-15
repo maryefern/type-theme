@@ -1,8 +1,7 @@
 ---
 layout: landing
-title: Persuasive Bloggers Community Access
+title: Get Community Access
 permalink: /community/
-hide: true
 ---
 
 <div class="container-fluid">
@@ -13,10 +12,9 @@ hide: true
     <span class="sr-only">Step 1 of 3 Complete</span>
   </div>
   </div>
-                    <h2>Join Persuasive Bloggers</h2>
-                    <p>Introducing the <em>brand new</em> Persuasive Bloggers community.</p><p>As a member, you'll get <em>free</em> writing prompts, headline critiques, traffic & list-building strategy sessions, access to the private Facebook group and much more!</p>
+                    <h2>Join the Persuasive Bloggers Community</h2>
+                    <p>As a member, you'll get <em>free</em> writing prompts, headline critiques, LIVE traffic & list-building strategy sessions, access to the private Facebook group and much more!</p>
             </div>
-
 <script type="text/javascript" src="http://form.jotform.co/jsform/51885749877884"></script>
 
 <div class="padding-regular no-padding-bottom"><h3 class="no-padding-bottom">MEMBERSHIP TERMS & REQUIREMENTS:</h3></div>
