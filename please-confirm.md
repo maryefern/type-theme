@@ -9,7 +9,7 @@ hide: true
             <div id="invite-header" class="row">
             <div class="progress">
   <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 67%">
-    <span class="sr-only">67% Complete</span>
+    <span class="sr-only">Step 2 of 3 Complete</span>
   </div>
   </div>
                     <h2>Thank you. Just one more step!</h2>
