@@ -8,6 +8,20 @@ html {
 }
 
 // Typography
+ @font-face { font-family: Waterlily; src: url('Waterlily Script.ttf'); } 
+
+.waterlily {
+    font-family: Waterlily;
+}
+
+.yellow {
+    color: #ecf05c;
+}
+
+.blue {
+    color: #01e7e0;
+}
+
 ::selection {
   background: $selection-color;
 }
@@ -43,6 +57,9 @@ h3 {
 }
 h4 {
   font-size: 1.15em;
+}
+.uppercase {
+    text-transform: uppercase;
 }
 .excerpt p { font-size: 0.95em; }
 p.small { font-size: 0.7em; }
@@ -116,6 +133,9 @@ a {
   margin: 0;
   padding: 0;
 }
+.no-padding-top {
+    padding-top: 0 !important;
+}
 // Responsive media
 iframe, img, embed, object, video {
   max-width: 100%;
@@ -168,6 +188,15 @@ a .fa:hover {
     -o-transform: scale(1.05);
     transform: scale(1.05);
 }
+.button-large {
+    background-color: #ecf05c;
+    margin: 0 !important;
+    padding: 1em 1.3em !important;
+    border: none !important;
+    color: #383838 !important;
+    font-weight: 700;
+    text-transform: uppercase;
+}
 
 // Speech bubbles
 
@@ -181,12 +210,13 @@ position: relative;
 width: auto;
 height: auto;
 @extend %padding-small;
-background: #F7f7f7;
+background-color: #f7f7f7;
 -webkit-border-radius: 10px;
 -moz-border-radius: 10px;
 border-radius: 10px;
 border: rgba(0,0,0,0.1) solid 1px;
     text-align: center;
+    color: #383838;
 }
 
 .bubble-left:after 
@@ -195,7 +225,7 @@ content: '';
 position: absolute;
 border-style: solid;
 border-width: 15px 15px 15px 0;
-border-color: transparent #F7f7f7;
+border-color: transparent #f7f7f7;
 display: block;
 width: 0;
 z-index: 1;
@@ -655,6 +685,14 @@ top: 50%;
 	bottom: -16px;
 	left: 0;
 	right: 0;
+}
+
+#pb-header { 
+    background-color: #01e7e0;
+    text-align: center;
+    @extend %padding-regular;
+    font-size: 1.2em;
+    color: #383838;
 }
 
 #invite-header { 

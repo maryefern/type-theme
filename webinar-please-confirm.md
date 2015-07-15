@@ -13,7 +13,7 @@ hide: true
   </div>
   </div>
                     <h2>Thank you. Just one more step!</h2>
-                    <p>You still need to confirm your e-mail address. If you skip this LAST step, I will not be able to send you any e-mails, so I won't be able to save your spot in the webinar and you won't have access.</p>
+                    <p>You still need to confirm your e-mail address. If you skip this LAST step, I will not be able to send you any e-mails, so I can't save your spot in the webinar and you won't have access. :-(</p>
             </div>
 
 <div class="columns group">
@@ -22,7 +22,7 @@ hide: true
     </div> 
     <div class="col span_1_of_2">
         <div class="bubble-left">
-        <div class="text-align-left"><h3>Here's how to complete your membership:</h3>
+        <div class="text-align-left"><h4>Instructions:</h4>
         <p><strong>Step 1.</strong> Go to your inbox and find the e-mail from me (Mary Fernandez).</p><p><strong>Step 2.</strong> Open the e-mail and click on the "Yes, subscribe me to this list" button.</p><p><strong>Step 3.</strong> Your access details will be sent to you right away!</p></div>
         </div>
     </div>
