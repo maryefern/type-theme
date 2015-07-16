@@ -28,7 +28,7 @@ permalink: /community/
 
 <p>Most importantly, you must have the drive and work ethic to overcome obstacles and <em>take action</em>. We are world-changers and future world-changers, and we are passionate about giving value to everyone around us. If you do not have anything positive or supportive to add to the discussion, please do <em>not</em> join this group.</p>
 
-<p><em>Promoting your business is prohibited</em> unless specifically asked for. However, Mary will give you opportunities to promote your blog and, from time to time, Mary will also feature noteworthy bloggers from the group who are doing something special or extraordinary!</p>
+<p><em>Promoting your business is prohibited</em> unless specifically asked for. However, we will give you opportunities to promote your blog and, from time to time, Mary will also feature noteworthy bloggers from the group who are doing something special or extraordinary!</p>
 </div>
 
 </div>
