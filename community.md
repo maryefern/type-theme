@@ -22,7 +22,7 @@ permalink: /community/
     <div class="col span_2_of_3">
 
 <div class="text-align-left">
-<p>We are serious bloggers and entrepreneurs, on our way to becoming some of the top experts in our fields. Beginners to advanced bloggers are welcome.</p>
+<p>We are a new community of serious bloggers and entrepreneurs, on our way to becoming some of the top experts in our fields. Beginners to advanced bloggers are welcome.</p>
 
 <p>To apply, <em>you must have a blog for your business, or you are planning to launch one.</em> (We are looking to make money online. We are not "hobby" bloggers, even though we think those blogs are awesome.)</p>
 
