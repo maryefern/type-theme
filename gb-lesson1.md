@@ -43,7 +43,7 @@ noindex: true
 <p><em>Pick me! Pick me!</em></p>
 <p>But with each name that gets called, your heart drops. Everyone else is getting picked, and it seems like you'll be the lonely last one standing.</p>
 <p>Well, there’s good news and there’s bad news...</p>
-<p>The bad news is, it is becoming increasingly difficult for bloggers to stand out amid all the noise. As of July 2015, there are over 246.6 million blog accounts <em>on Tumblr alone</em>.</p>
+<p>The bad news is, it is becoming increasingly difficult for bloggers to stand out amid all the noise. As of July 2015, there are over <a href="http://www.statista.com/statistics/256235/total-cumulative-number-of-tumblr-blogs/">246.6 million blog accounts</a> <em>on Tumblr alone</em>.</p>
 <p>As a result, only an itty-bitty fraction of the entire blogosphere... let’s estimate 1%... has actually achieved popular status. (By popular, I mean that they have a substantial audience.)</p>
 <p><strong>If you want to get into that top 1%, you are going to have to be absolutely <em>extraordinary.</em></strong></p>
 <p>The good news is, most bloggers don’t even stand a chance. I know that sounds harsh, but it's true.</p>
