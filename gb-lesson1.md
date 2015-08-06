@@ -12,7 +12,7 @@ noindex: true
 <div class="branding">
 <img class="avatar" src="/img/write.png" alt="">
 <h5 class="float-left course-title">Mini Course:<br>Your First Big-League Guest Post</h5>
-<div class="float-right"><h1 class="site-title">Persuasive Blog School</h1></div>
+<h1 class="site-title float-right">Persuasive Blog School</h1>
 </div>
 </header>
 

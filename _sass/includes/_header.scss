@@ -76,6 +76,16 @@
         margin: 0;
     }
     
+        @media (max-width: 480px) {
+     .site-title, .course-title {
+        display: block;
+        padding-top: $padding-small;
+        padding-bottom: $padding-small;
+        text-align: center;
+        width: 100%;
+      }
+        }
+    
      .avatar {
     height: 2em;
     width: 2em;
