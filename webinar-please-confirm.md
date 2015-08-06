@@ -3,6 +3,7 @@ layout: please-confirm
 title: Thank You
 permalink: /webinar-please-confirm/
 hide: true
+noindex: true
 ---
 
 <div class="container-fluid">

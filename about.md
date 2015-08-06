@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 hide: true
+noindex: true
 ---
 
 <img src="/img/photoshoot-left.jpg">

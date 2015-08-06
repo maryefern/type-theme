@@ -3,6 +3,7 @@ layout: landing
 title: Thank You
 permalink: /confirmed/
 hide: true
+noindex: true
 ---
 
 <div class="container-fluid">

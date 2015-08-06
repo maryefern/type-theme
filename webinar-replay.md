@@ -3,6 +3,7 @@ layout: landing
 title: How to Get Your First 500 Subscribers in 60 Days (Replay)
 permalink: /fb-ads-free-training/
 hide: true
+noindex: true
 ---
 
 <div class="container-fluid">

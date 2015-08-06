@@ -3,6 +3,7 @@ layout: please-confirm
 title: Thank You
 permalink: /please-confirm/
 hide: true
+noindex: true
 ---
 
 <div class="container-fluid">
