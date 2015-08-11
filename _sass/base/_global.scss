@@ -53,6 +53,23 @@ html {
 }
 }
 
+.yellow-subscribe {
+    background-color: #ecf05c;
+    color: #383838;
+    text-align: center;
+    @extend %padding-small;
+    
+    #mc-embedded-subscribe {
+    background-color: #444349;
+    border: 2px solid #444349;
+    color: #fff;
+    }
+    #mc-embedded-subscribe:hover {
+        color: #383838;
+        background-color: transparent;
+    }
+}
+
 // Typography
 
 .yellow {

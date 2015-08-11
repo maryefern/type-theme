@@ -15,8 +15,7 @@ hide: true
 <iframe src="https://player.vimeo.com/video/135945510?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-  <div class="h-subscribe">
-  <div class="padding-small">
+  <div class="yellow-subscribe">
   <p>Enter your email below to receive the printable checklist:</p>
          <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup" class="horizontal">
@@ -39,7 +38,6 @@ hide: true
 </form>
 </div>
 <!--End mc_embed_signup-->
-</div>
 </div>
 
 </article>
