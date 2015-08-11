@@ -1,0 +1,60 @@
+---
+layout: landing
+title: Facebook Ads Walkthrough
+permalink: /bbt-fbads/
+hide: true
+---
+
+<div class="container-fluid">
+            <div id="invite-header" class="row">
+            <h3><em>Video Tutorial:</em> How to Get the Biggest Bang for Your Buck With Facebook Ads</h3>
+            </div>
+
+<article>
+<div class="video-wrapper">
+<iframe src="https://player.vimeo.com/video/135945510?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+  <div class="h-subscribe">
+
+                                    <div class="progress">
+  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 33%">
+    <span class="sr-only">Step 1 of 3 Complete</span>
+  </div>
+  </div>
+<div class="padding-small">
+  <h4>Enter your email below to receive the printable checklist:</h4>
+         <!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup" class="horizontal">
+<form action="//persuasiveblog.us2.list-manage.com/subscribe/post?u=75b9df90ac1215bc15b44301c&amp;id=d70844b4d1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+<div class="mc-field-group">
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address">
+</div>
+        <div class="clear"></div>
+<div class="mc-field-group">
+	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME" placeholder="First Name">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_75b9df90ac1215bc15b44301c_da4fddc829" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Download the PDF" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+</div>
+</div>
+
+</article>
+
+
+<!-- Disqus -->
+{% if site.theme.disqus_shortname %}
+<div class="comments">
+  {% include disqus.html %}
+</div>
+{% endif %}
+</div>
