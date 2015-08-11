@@ -25,13 +25,13 @@ html {
     margin-right: 1em;
 }
 
-.video-wrapper {
+.vid-wrapper {
     position: relative;
     padding-bottom: 56.25%; /* 16:9 */
     height: 0;
 }
 
-.video-wrapper iframe {
+.vid-wrapper iframe {
     position:absolute;
     top: 0;
     left: 0;
