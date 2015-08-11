@@ -16,8 +16,7 @@ hide: true
 </div>
 
   <div class="h-subscribe">
-
-  <h4>Enter your email below to receive the printable checklist:</h4>
+  <p>Enter your email below to receive the printable checklist:</p>
          <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup" class="horizontal">
 <form action="//persuasiveblog.us2.list-manage.com/subscribe/post?u=75b9df90ac1215bc15b44301c&amp;id=d70844b4d1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -39,7 +38,6 @@ hide: true
 </form>
 </div>
 <!--End mc_embed_signup-->
-
 </div>
 
 </article>
