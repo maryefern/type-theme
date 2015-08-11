@@ -17,12 +17,6 @@ hide: true
 
   <div class="h-subscribe">
 
-                                    <div class="progress">
-  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 33%">
-    <span class="sr-only">Step 1 of 3 Complete</span>
-  </div>
-  </div>
-<div class="padding-small">
   <h4>Enter your email below to receive the printable checklist:</h4>
          <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup" class="horizontal">
@@ -45,7 +39,7 @@ hide: true
 </form>
 </div>
 <!--End mc_embed_signup-->
-</div>
+
 </div>
 
 </article>
