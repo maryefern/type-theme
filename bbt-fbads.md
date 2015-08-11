@@ -16,6 +16,7 @@ hide: true
 </div>
 
   <div class="h-subscribe">
+  <div class="padding-small">
   <p>Enter your email below to receive the printable checklist:</p>
          <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup" class="horizontal">
@@ -38,6 +39,7 @@ hide: true
 </form>
 </div>
 <!--End mc_embed_signup-->
+</div>
 </div>
 
 </article>
