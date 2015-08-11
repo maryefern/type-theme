@@ -15,8 +15,10 @@ hide: true
 <iframe src="https://player.vimeo.com/video/135945510?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
+&nbsp;
+
   <div class="yellow-subscribe">
-  <p>Enter your email below to receive the printable checklist:</p>
+  <h4>Enter your email below to receive the printable checklist:</h4>
          <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup" class="horizontal">
 <form action="//persuasiveblog.us2.list-manage.com/subscribe/post?u=75b9df90ac1215bc15b44301c&amp;id=d70844b4d1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
