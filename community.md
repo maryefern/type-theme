@@ -64,9 +64,10 @@ permalink: /community/
 
 &nbsp;
 <hr>
-
-<h4>About Our Community (Please Read!)</h4>
+&nbsp;
 <img src="/img/photoshoot-(20).jpg" class="image-right big">
+<h4>About Our Community (Please Read!)</h4>
+
 <p>We are a new community for serious bloggers and entrepreneurs, on our way to becoming some of the top experts in our fields. Beginners to advanced bloggers are welcome.</p>
 
 <p>To apply, <em>you must have a blog for your business, or you are planning to launch one.</em> (We are looking to make money online. We are not "hobby" bloggers, even though we think those blogs are awesome.)</p>
