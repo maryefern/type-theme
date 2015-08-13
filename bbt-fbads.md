@@ -1,54 +1,200 @@
 ---
 layout: landing
-title: Facebook Ads Walkthrough
+title: How to Get the Biggest Bang for Your Buck With Facebook Ads (Video Walkthrough)
 permalink: /bbt-fbads/
 hide: true
 ---
 
-<div class="container-fluid">
-            <div id="invite-header" class="row">
-            <h3><em>Video Tutorial:</em> How to Get the Biggest Bang for Your Buck With Facebook Ads</h3>
-            </div>
-
 <article>
+<center>
+<h3><em>Exclusive BBT Reader Bonus:</em></h3>
+<h2>Steps to Setting Up Your Facebook Ads For Rapid List Growth</h2>
+</center>
+&nbsp;
+<script src="https://app.convertkit.com/assets/CKJS4.js?v=21"></script>
+
+<div class="ck_form ck_vertical_subscription_form">
+  <div class="ck_form_content">
+      <h4 class="ck_form_title">Download the PDF Checklist</h4>
+      <div class="ck_description">
+          <p>All the steps you need to set up your Facebook ads using tracking pixels to get the most subscribers to your blog, as quickly as possible, for the cheapest price.</p>
+      </div>
+  </div>
+
+  <div class="ck_form_fields">
+
+    <div id='ck_success_msg'  style='display:none;'>
+      <p>Thanks! Now check your email.</p>
+    </div>
+
+    <!--  Form starts here  -->
+    <form id="ck_subscribe_form" class="ck_subscribe_form" action="https://app.convertkit.com/landing_pages/2988/subscribe" data-remote="true">
+      <input type="hidden" value="{&quot;embed_style&quot;:&quot;inline&quot;,&quot;embed_trigger&quot;:&quot;scroll_percentage&quot;,&quot;scroll_percentage&quot;:&quot;70&quot;,&quot;delay_seconds&quot;:&quot;10&quot;,&quot;display_position&quot;:&quot;br&quot;,&quot;display_devices&quot;:&quot;all&quot;,&quot;days_no_show&quot;:&quot;15&quot;,&quot;converted_behavior&quot;:&quot;show&quot;}" id="ck_form_options"></input>
+      <input type="hidden" name="id" value="2988" id="landing_page_id"></input>
+      <div class="ck_errorArea">
+        <div id="ck_error_msg" style="display:none">
+          <p>There was an error submitting your subscription. Please try again.</p>
+        </div>
+      </div>
+      <div class="ck_control_group ck_first_name_field_group">
+        <input type="text" name="first_name" class="ck_first_name" id="ck_firstNameField" required placeholder="First Name"></input>
+      </div>
+      <div class="ck_control_group ck_email_field_group">
+          <input type="email" name="email" class="ck_email_address" id="ck_emailField" required placeholder="Email Address"></input>
+      </div>
+
+      <button class="subscribe_button ck_subscribe_button btn fields" id='ck_subscribe_button'>
+        Send me the PDF checklist!
+      </button>
+      <span class="ck_guarantee">I won&#x27;t send you spam. Unsubscribe at any time.</span>
+    </form>
+  </div>
+  
+ </div>
+
+
+<style type="text/css">/* Layout */
+  .ck_form {
+	overflow: hidden;
+	color: #ffffff;
+	clear: both;
+	margin: 20px 0px;
+    background-image: url("/img/stardust.png");
+    border-top: 7px solid #01e7e0;
+}
+
+.ck_form * {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#ck_subscribe_form {
+  clear: both;
+}
+
+/* Element Queries — uses JS */
+
+.ck_form_content, .ck_form_fields {
+	width: 50%;
+	float: left;
+	padding: 5%;
+}
+
+.ck_form.ck_horizontal {
+}
+
+.ck_form_content {
+	border-bottom: none;
+}
+
+.ck_form.ck_vertical {
+}
+
+.ck_vertical .ck_form_content, .ck_vertical .ck_form_fields {
+	padding: 10%;
+	width: 100%;
+	float: none;
+    border-bottom: 2px solid #01e7e0;
+}
+
+.ck_vertical .ck_form_content {
+	overflow: hidden;
+}
+
+/* Trigger the vertical layout with media queries as well */
+
+@media all and (max-width: 499px) {
+
+	.ck_form {
+	}
+
+	.ck_form_content, .ck_form_fields {
+		padding: 10%;
+		width: 100%;
+		float: none;
+	}
+
+	.ck_form_content {
+	}
+
+}
+
+/* Content */
+
+
+.ck_image {
+	float: left;
+	margin-right: 5px;
+}
+
+/* Form fields */
+
+.ck_errorArea {
+	display: none;
+}
+
+#ck_success_msg {
+	padding: 10px 10px 0px;
+	border: solid 1px #ddd;
+	background: #eee;
+}
+
+.ck_label {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.ck_form input[type="text"], .ck_form input[type="email"] {
+	width: 100%;
+}
+
+.ck_checkbox {
+  padding: 10px 0px 10px 20px;
+  display: block;
+  clear: both;
+}
+
+.ck_checkbox input.optIn {
+  margin-left: -20px;
+  margin-top: 0;
+}
+.ck_form .ck_opt_in_prompt {
+  margin-left: 4px;
+}
+.ck_form .ck_opt_in_prompt p {
+  display: inline;
+}
+
+.ck_form .ck_subscribe_button {
+    width: 100%;
+  }
+
+.ck_control_group, .ck_subscribe_button {
+    display: block !important;
+}
+
+.ck_subscribe_button {
+    background-color: #01e7e0 !important;
+    border-color: #01e7e0 !important;
+}
+.ck_subscribe_button:hover {
+    background-color: transparent !important;
+    color: #01e7e0 !important;
+}
+.ck_form {
+background-color: #444349 !important;
+}
+
+.ck_form_title {
+    margin-top: 0;
+}
+
+</style>
+
 <div class="vid-wrapper">
 <iframe src="https://player.vimeo.com/video/135993266?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
-
 &nbsp;
-
-  <div class="yellow-subscribe">
-  <h4>Enter your email below to receive the printable checklist:</h4>
-         <!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup" class="horizontal">
-<form action="//persuasiveblog.us2.list-manage.com/subscribe/post?u=75b9df90ac1215bc15b44301c&amp;id=d70844b4d1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-<div class="mc-field-group">
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address">
-</div>
-        <div class="clear"></div>
-<div class="mc-field-group">
-	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME" placeholder="First Name">
-</div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;"><input type="text" name="b_75b9df90ac1215bc15b44301c_da4fddc829" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Download the PDF" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-<!--End mc_embed_signup-->
-</div>
-
+<p><strong>For all the steps and links to resources mentioned in this video:</strong> enter your name and email in the form above the video, and I'll send it off to you right away.</p>
 </article>
-
-
-<!-- Disqus -->
-{% if site.theme.disqus_shortname %}
-<div class="comments">
-  {% include disqus.html %}
-</div>
-{% endif %}
-</div>

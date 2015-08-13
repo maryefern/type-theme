@@ -7,17 +7,43 @@ permalink: /community/
 <div class="container-fluid">
             <div id="invite-header" class="row">
             
-                                    <div class="progress">
-  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 33%">
-    <span class="sr-only">Step 1 of 3 Complete</span>
-  </div>
-  </div>
-                    <h2>Join the Persuasive Bloggers Community</h2>
-                    <p>As a member, you'll get <em>free</em> writing prompts, headline critiques, LIVE traffic & list-building strategy sessions, access to the private Facebook group and much more!</p>
-            </div>
-<script type="text/javascript" src="http://form.jotform.co/jsform/51885749877884"></script>
+                    <h1>Persuasive Bloggers Community</h1>
+                    <p>Join below to get <em>free</em> writing prompts, headline critiques, LIVE traffic & list-building strategy sessions, access to the private Facebook group and much more!</p>
+                    
+                    <script src="https://app.convertkit.com/assets/CKJS4.js?v=21"></script>
 
-<div class="padding-regular no-padding-bottom"><h3 class="no-padding-bottom">MEMBERSHIP TERMS & REQUIREMENTS:</h3></div>
+<div class="ck_form ck_vertical_subscription_form">
+
+  <div class="ck_form_fields">
+
+    <!--  Form starts here  -->
+    <form id="ck_subscribe_form" class="ck_subscribe_form" action="https://app.convertkit.com/landing_pages/2997/subscribe" data-remote="true">
+      <input type="hidden" value="{&quot;embed_style&quot;:&quot;inline&quot;,&quot;embed_trigger&quot;:&quot;scroll_percentage&quot;,&quot;scroll_percentage&quot;:&quot;70&quot;,&quot;delay_seconds&quot;:&quot;10&quot;,&quot;display_position&quot;:&quot;br&quot;,&quot;display_devices&quot;:&quot;all&quot;,&quot;days_no_show&quot;:&quot;15&quot;,&quot;converted_behavior&quot;:&quot;show&quot;}" id="ck_form_options"></input>
+      <input type="hidden" name="id" value="2997" id="landing_page_id"></input>
+      <div class="ck_errorArea">
+        <div id="ck_error_msg" style="display:none">
+          <p>There was an error submitting your subscription. Please try again.</p>
+        </div>
+      </div>
+      <div class="ck_control_group ck_first_name_field_group">
+        <input type="text" name="first_name" class="ck_first_name" id="ck_firstNameField" placeholder="First Name" required></input>
+      </div>
+      <div class="ck_control_group ck_email_field_group">
+          <input type="email" name="email" class="ck_email_address" id="ck_emailField" required placeholder="Email Address"></input>
+      </div>
+
+      <button class="subscribe_button ck_subscribe_button btn fields" id='ck_subscribe_button'>
+        Give me my access key!
+      </button>
+      <span class="ck_guarantee">I won&#x27;t send you spam. Unsubscribe at any time.</span>
+    </form>
+  </div>
+  
+ </div>
+ 
+</div>
+
+<div class="padding-regular no-padding-bottom"><h3 class="no-padding-bottom">About Our Community (Please Read!)</h3></div>
 <div class="columns group">
     <div class="col span_2_of_3">
 
@@ -37,6 +63,8 @@ permalink: /community/
         <img src="/img/photoshoot-(20).jpg">
     </div> 
 </div>
+
+
 
 
 </div>

@@ -412,6 +412,149 @@ top: 50%;
     border-radius: 50%;
 }
 
+// ConvertKit
+
+/* Layout */
+  .ck_form {
+	line-height: 1.5em;
+	overflow: hidden;
+	color: #ffffff;
+	font-size: inherit;
+	clear: both;
+	margin: 20px 0px;
+}
+
+.ck_control_group, .ck_subscribe_button {
+    display: inline-block;
+}
+
+#ck_subscribe_form {
+  clear: both;
+}
+
+/* Element Queries — uses JS */
+
+.ck_form_content, .ck_form_fields {
+	width: 100%;
+    text-align: center;
+    display: block;
+}
+
+.ck_form.ck_horizontal {
+}
+
+.ck_form_content {
+	border-bottom: none;
+}
+
+.ck_form.ck_vertical {
+}
+
+.ck_vertical .ck_form_content, .ck_vertical .ck_form_fields {
+	width: 100%;
+	float: none;
+    display: block;
+}
+
+/* Trigger the vertical layout with media queries as well */
+
+@media all and (max-width: 499px) {
+
+	.ck_form_content, .ck_form_fields, .ck_control_group, .ck_subscribe_button {
+		width: 100%;
+		float: none;
+        display: block;
+	}
+
+}
+
+/* Content */
+
+.ck_image {
+	float: left;
+	margin-right: 5px;
+}
+
+/* Form fields */
+
+.ck_errorArea {
+	display: none;
+}
+
+#ck_success_msg {
+	padding: 10px 10px 0px;
+	border: solid 1px #ddd;
+	background: #eee;
+}
+
+.ck_form input[type="text"], .ck_form input[type="email"] {
+    padding: 0.5em 0.75em;
+	width: 100%;
+	border: 1px solid #d6d6d6; /* stroke */
+	background-color: #f8f7f7; /* layer fill content */
+	margin-bottom: 5px;
+	height: auto;
+    font: inherit;
+}
+
+.ck_checkbox {
+  padding: 10px 0px 10px 20px;
+  display: block;
+  clear: both;
+}
+
+.ck_checkbox input.optIn {
+  margin-left: -20px;
+  margin-top: 0;
+}
+.ck_form .ck_opt_in_prompt {
+  margin-left: 4px;
+}
+.ck_form .ck_opt_in_prompt p {
+  display: inline;
+}
+
+.ck_form .ck_subscribe_button {
+    margin: 10px 0px 0px;
+    padding: 0.5em 0.75em;
+    background: #ecf05c;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px; /* border radius */
+    cursor: pointer;
+    border: none;
+    text-shadow: none;
+    color: #383838;
+    -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    border: 2px solid #ecf05c;
+    padding: 0.5em 0.75em;
+  }
+
+.ck_form .ck_subscribe_button:hover {
+    background-color: transparent;
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+    transform: scale(1.05);
+    color: #ecf05c;
+}
+
+.ck_form .ck_guarantee {
+	color: #fff;
+	font-size: 0.7em;
+	text-align: center;
+	padding: 5px 0px;
+	display: block;
+}
+
+.ck_converted_content {
+  display: none;
+	padding: 5%;
+}
+
+
 // MailChimp
 
 .horizontal .mc-field-group { 
@@ -837,7 +980,6 @@ top: 50%;
     text-align: center;
     @extend %padding-regular;
     color: #fff;
-    font-size: 1.2em;
 }
 
 #invite-header h1 {
