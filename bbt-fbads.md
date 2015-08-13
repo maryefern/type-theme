@@ -20,7 +20,7 @@ hide: true
   <div class="ck_form_content">
       <h4 class="ck_form_title">Download the PDF Checklist</h4>
       <div class="ck_description">
-          <p>All the steps you need to set up your Facebook ads using tracking pixels to get the most subscribers to your blog, as quickly as possible, for the cheapest price.</p>
+          <p>All the steps and resources you need to set up your Facebook ads using tracking pixels, and get the most subscribers to your blog, as quickly as possible, for the cheapest price.</p>
       </div>
   </div>
 
