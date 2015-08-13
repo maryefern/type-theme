@@ -8,11 +8,6 @@ noindex: true
 
 <div class="container-fluid">
             <div id="invite-header" class="row">
-                        <div class="progress">
-  <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
-    <span class="sr-only">Step 3 of 3 Complete!</span>
-  </div>
-  </div>
                     <h2>You're in! Now join our covert operations.</h2>
                     <p>Congratulations! You are now <em>officially</em> a member of the Persuasive Bloggers community. The backdoor is over on our private Facebook group, <em>and you now have the key.</em></p>
             </div>
