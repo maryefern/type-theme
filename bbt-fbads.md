@@ -5,12 +5,15 @@ permalink: /bbt-fbads/
 hide: true
 ---
 
-<article>
-<center>
-<h3><em>Exclusive BBT Reader Bonus:</em></h3>
-<h2>Steps to Setting Up Your Facebook Ads For Rapid List Growth</h2>
-</center>
-&nbsp;
+<div class="padding-small"><center>
+<h4><em>Exclusive BBT Reader Bonus:</em></h4>
+<h3 class="no-padding-top">Steps to Setting Up Your Facebook Ads For Rapid List Growth</h3></center></div>
+
+<article class="no-padding-top">
+<div class="vid-wrapper">
+<iframe src="https://player.vimeo.com/video/135993266?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
 <script src="https://app.convertkit.com/assets/CKJS4.js?v=21"></script>
 
 <div class="ck_form ck_vertical_subscription_form">
@@ -58,7 +61,7 @@ hide: true
 	overflow: hidden;
 	color: #ffffff;
 	clear: both;
-	margin: 20px 0px;
+	margin: 0px;
     background-image: url("/img/stardust.png");
     border-top: 7px solid #01e7e0;
 }
@@ -78,6 +81,11 @@ hide: true
 .ck_form_content, .ck_form_fields {
 	width: 50%;
 	float: left;
+}
+.ck_form_content {
+	padding: 5%
+}
+.ck_form_fields {
 	padding: 5%;
 }
 
@@ -192,9 +200,4 @@ background-color: #444349 !important;
 
 </style>
 
-<div class="vid-wrapper">
-<iframe src="https://player.vimeo.com/video/135993266?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-&nbsp;
-<p><strong>For all the steps and links to resources mentioned in this video:</strong> enter your name and email in the form above the video, and I'll send it off to you right away.</p>
 </article>
