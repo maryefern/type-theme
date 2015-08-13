@@ -9,7 +9,7 @@ noindex: true
 <div class="container-fluid">
             <div id="invite-header" class="row">
                     <h2>You're in! Now join our covert operations.</h2>
-                    <p>Congratulations! You are now <em>officially</em> a member of the Persuasive Bloggers community. The backdoor is over on our private Facebook group, <em>and you now have the key.</em></p>
+                    <p>Congratulations! You are now <em>officially</em> a member of the Persuasive Bloggers community. Expect to get some cool stuff from me soon. Meanwhile, the backdoor is over on our private Facebook group... <em>and you now have the key.</em></p>
             </div>
             <!--social-->
             <div id="social-bar" class="row social-bar">
@@ -27,20 +27,15 @@ noindex: true
     <div class="col span_1_of_2">
         <div class="bubble-left">
             <div class="text-align-left">
-            <h3>Here's how to use your key to unlock the Facebook group:</h3>
+            <h3>Here's how to join the Facebook group:</h3>
             
             <p><strong>Step 1.</strong> Visit the <a href="https://www.facebook.com/groups/persuasiveblog/">Facebook group</a>.</p>
-            <p><strong>Step 2.</strong> Click the "Join Group" button.</p>
+            <p><strong>Step 2.</strong> Click the green "Join Group" button.</p>
             <p><strong>Step 3.</strong> I'll message you and ask you to speak the password.</p>
             <p><strong>Step 4.</strong> Say, "OPEN SESAME" and I'll approve you ASAP!</p>
         </div>
         </div>
     
-    </div>
-    <div class="col span_2_of_2">
-    
-    <hr>
-    <p><em>Pssst!</em></p><p><em>Expect an email from me with your stuff in the next few mins.</em> Here's how to make sure you get it:</p><p>Sometimes genuine e-mails can get confused by the spam-checkers and sent to your spam folder. So if you don't receive a NEW e-mail from me with your access details in the next <em>5-10 minutes</em>, check your Promotions Tab (for Gmail users), and check your spam folder.</p><p>If it's still not there, <a href="mailto:mary@persuasiveblog.com">shoot me an e-mail</a> and I'll gladly help you out.</p>
     </div>
 </div>
 
