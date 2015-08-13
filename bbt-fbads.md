@@ -161,6 +161,7 @@ hide: true
 
 .ck_form input[type="text"], .ck_form input[type="email"] {
 	width: 100%;
+    color: #383838;
 }
 
 .ck_checkbox {
