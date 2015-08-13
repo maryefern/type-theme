@@ -5,13 +5,18 @@ permalink: /bbt-fbads/
 hide: true
 ---
 
-<div class="padding-small"><center>
+<div class="container-fluid">
+        <div id="invite-header" class="row padding-small">
 <h4><em>Exclusive BBT Reader Bonus:</em></h4>
-<h3 class="no-padding-top">Steps to Setting Up Your Facebook Ads For Rapid List Growth</h3></center></div>
+<h3 class="no-padding-top">Steps to Setting Up Your Facebook Ads For Rapid List Growth</h3>
+        </div>
 
-<article class="no-padding-top">
+<article>
+
+
+<div class="shadow">
 <div class="vid-wrapper">
-<iframe src="https://player.vimeo.com/video/135993266?title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/136227942" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 <script src="https://app.convertkit.com/assets/CKJS4.js?v=21"></script>
@@ -53,6 +58,7 @@ hide: true
     </form>
   </div>
   
+ </div>
  </div>
 
 
@@ -201,3 +207,4 @@ background-color: #444349 !important;
 </style>
 
 </article>
+</div>

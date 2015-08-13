@@ -10,7 +10,28 @@ permalink: /community/
                     <h1>Persuasive Bloggers Community</h1>
                     <p>Join below to get <em>free</em> writing prompts, headline critiques, LIVE traffic & list-building strategy sessions, access to the private Facebook group and much more!</p>
                     
-                    <script src="https://app.convertkit.com/assets/CKJS4.js?v=21"></script>
+            </div>
+                    
+<article>
+<style type="text/css">
+.ck_form {
+    background-color: #ecf05c;
+    padding: 3%;
+    color: #6E6E6E;
+    margin: 0;
+}
+.ck_form .ck_subscribe_button {
+    background: #444349 !important;
+    color: #fff !important;
+    border: 2px solid #444349 !important;
+}
+.ck_form .ck_subscribe_button:hover {
+    background: transparent !important;
+    color: #383838 !important;
+}
+</style>
+
+<script src="https://app.convertkit.com/assets/CKJS4.js?v=21"></script>
 
 <div class="ck_form ck_vertical_subscription_form">
 
@@ -31,7 +52,7 @@ permalink: /community/
       <div class="ck_control_group ck_email_field_group">
           <input type="email" name="email" class="ck_email_address" id="ck_emailField" required placeholder="Email Address"></input>
       </div>
-
+      <div class="clear inline"></div>
       <button class="subscribe_button ck_subscribe_button btn fields" id='ck_subscribe_button'>
         Give me my access key!
       </button>
@@ -40,14 +61,12 @@ permalink: /community/
   </div>
   
  </div>
- 
-</div>
 
-<div class="padding-regular no-padding-bottom"><h3 class="no-padding-bottom">About Our Community (Please Read!)</h3></div>
-<div class="columns group">
-    <div class="col span_2_of_3">
+&nbsp;
+<hr>
 
-<div class="text-align-left">
+<h4>About Our Community (Please Read!)</h4>
+<img src="/img/photoshoot-(20).jpg" class="image-right big">
 <p>We are a new community for serious bloggers and entrepreneurs, on our way to becoming some of the top experts in our fields. Beginners to advanced bloggers are welcome.</p>
 
 <p>To apply, <em>you must have a blog for your business, or you are planning to launch one.</em> (We are looking to make money online. We are not "hobby" bloggers, even though we think those blogs are awesome.)</p>
@@ -55,18 +74,8 @@ permalink: /community/
 <p>Most importantly, you must have the drive and work ethic to overcome obstacles and <em>take action</em>. We are world-changers and future world-changers, and we are passionate about giving value to everyone around us. If you do not have anything positive or supportive to add to the discussion, please do <em>not</em> join this group.</p>
 
 <p><em>Promoting your business is prohibited</em> unless specifically asked for. However, we will give you opportunities to promote your blog and, from time to time, Mary will also feature noteworthy bloggers from the group who are doing something special or extraordinary!</p>
-</div>
+</article>
+
+        
 
 </div>
-
-    <div class="col span_1_of_3">
-        <img src="/img/photoshoot-(20).jpg">
-    </div> 
-</div>
-
-
-
-
-</div>
-
-&nbsp;

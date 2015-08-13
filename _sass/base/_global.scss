@@ -11,18 +11,25 @@ html {
     margin: 0 0 0 0 !important;
 }
 
+.inline {
+    display: inline-block;
+}
+
 .image-right {
     height: 10em;
     float: right;
-    border-radius: 0.2em;
     margin-left: 1em;
 }
 
 .image-left {
     height: 10em;
     float: left;
-    border-radius: 0.2em;
     margin-right: 1em;
+}
+
+.big {
+    height: 23em !important;
+    margin-bottom: 1em;
 }
 
 .vid-wrapper {
@@ -39,8 +46,14 @@ html {
     height: 100% !important;
 }
 
+.shadow {
+-webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.3);
+-moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.3);
+box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.3);
+}
+
 .padding-small {
-    padding: $padding-small;
+    padding: $padding-small !important;
 }
 
 #yellow-header {
@@ -542,11 +555,11 @@ top: 50%;
 }
 
 .ck_form .ck_guarantee {
-	color: #fff;
 	font-size: 0.7em;
 	text-align: center;
 	padding: 5px 0px;
 	display: block;
+    color: inherit;
 }
 
 .ck_converted_content {
