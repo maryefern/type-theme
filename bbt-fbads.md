@@ -7,8 +7,8 @@ hide: true
 
 <div class="container-fluid">
         <div id="invite-header" class="row padding-small">
-<h4><em>Exclusive BBT Reader Bonus:</em></h4>
-<h3 class="no-padding-top">Steps to Setting Up Your Facebook Ads For Rapid List Growth</h3>
+<h4><em>Exclusive Boost Blog Traffic Reader Bonus:</em></h4>
+<h3 class="no-padding-top">Setting Up Your Facebook Ads for Mammoth List Growth with Minimal Cost</h3>
         </div>
 
 <article>
