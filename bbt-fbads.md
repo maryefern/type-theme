@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: How to Get the Biggest Bang for Your Buck With Facebook Ads (Video Walkthrough)
+title: Video Tutorial: Setting Up Your Facebook Ads for Mammoth List Growth with Minimal Cost
 permalink: /bbt-fbads/
 hide: true
 ---
