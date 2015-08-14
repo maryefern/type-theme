@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Video Tutorial: Setting Up Your Facebook Ads for Mammoth List Growth with Minimal Cost
+title: Setting Up Your Facebook Ads for Mammoth List Growth with Minimal Cost
 permalink: /bbt-fbads/
 hide: true
 ---
