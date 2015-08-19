@@ -23,7 +23,7 @@ hide: true
 
 <div class="ck_form ck_vertical_subscription_form">
   <div class="ck_form_content">
-      <h4 class="ck_form_title">Download the PDF Checklist</h4>
+      <h4 class="ck_form_title">Download the Complete Steps</h4>
       <div class="ck_description">
           <p>All the steps and resources you need to set up your Facebook ads using tracking pixels, and get the most subscribers to your blog, as quickly as possible, for the cheapest price.</p>
       </div>
@@ -52,7 +52,7 @@ hide: true
       </div>
 
       <button class="subscribe_button ck_subscribe_button btn fields" id='ck_subscribe_button'>
-        Send me the PDF checklist!
+        Send me the complete steps!
       </button>
       <span class="ck_guarantee">I won&#x27;t send you spam. Unsubscribe at any time.</span>
     </form>
