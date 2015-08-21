@@ -111,7 +111,7 @@ noindex: true
 
 <h4><em>Secret #3: Don't try to do it alone</em></h4>
 
-<img src="/img/mastermind.jpg" class="image-right">
+<img src="/img/mastermind.jpg" class="image-right medium">
 <p>I had a group of really smart and successful friends helping me to come up with a plan for growing that list.</p>
 
 <p>I'm talking about James Wedmore, Rick Mulready, Kimra Luna, Hilary Rushford, Nicole Sainz Di Rocco, Staci Ann Karim, Phoebe Mroczek, Melissa Khodai-Burkheimer, Olivier Doremieux, and Clint Francis Entorum.</p>
@@ -132,7 +132,7 @@ noindex: true
 
 <p>Mary</p>
 
-<p>P.S. If you skipped to the end, the 3 secrets to attracting a blog audience that puts you "on top of the world" are 1) don't grow your list slowly, 2) choose a topic that makes you happy because you rock at it, and 3) by all means <em>don't try to do it alone!</em> <a href="https://www.facebook.com/groups/persuasiveblog/">Get FREE access to our Persuasive Bloggers mastermind here.</a></p>
+<p>P.S. If you skipped to the end, the 3 secrets to attracting an audience that puts you "on top of the world" are 1) don't grow your list slowly, 2) choose a topic that makes you happy because you rock at it, and 3) by all means <em>don't try to do it alone!</em> <a href="https://www.facebook.com/groups/persuasiveblog/">Get FREE access to our Persuasive Bloggers mastermind here.</a></p>
 
 <p>P.P.S. In the next lesson, we'll cover the first step to a wildly successful Facebook ad campaign: creating your irresistible incentive. Look for that next week!</p>
 
