@@ -28,7 +28,7 @@ noindex: true
 </ol>
 
             <div id="gb-header" class="row">
-<h3 class="no-padding-top no-padding-bottom margin-0">Lesson 1: The 3 Secrets to Attracting a Blog Audience that Puts You on Top of the World</h3>
+<h3 class="no-padding-top no-padding-bottom margin-0">Lesson 1: The 3 Secrets to Attracting an Audience that Puts You on Top of the World</h3>
             </div>
 
 
