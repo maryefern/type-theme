@@ -7,6 +7,10 @@ html {
   background: $background-color;
 }
 
+p a:hover {
+    text-decoration: underline;
+}
+
 .margin-0 {
     margin: 0 0 0 0 !important;
 }
@@ -221,6 +225,10 @@ ol.progtrckr li.progtrckr-done {
     color: #383838;
     border-bottom: 6px solid #ecf05c;
 }
+ol.progtrckr li.progtrckr-done-green {
+    color: #383838;
+    border-bottom: 6px solid #b8fe83;
+}
 ol.progtrckr li.progtrckr-todo {
     color: silver; 
     border-bottom: 6px solid rgba(0,0,0,0.2);
@@ -237,6 +245,16 @@ ol.progtrckr li.progtrckr-done:before {
     content: "\2713";
     color: #383838;
     background-color: #ecf05c;
+    height: 1.2em;
+    width: 1.2em;
+    line-height: 1.2em;
+    border: none;
+    border-radius: 1.2em;
+}
+ol.progtrckr li.progtrckr-done-green:before {
+    content: "\2713";
+    color: #383838;
+    background-color: #b8fe83;
     height: 1.2em;
     width: 1.2em;
     line-height: 1.2em;
