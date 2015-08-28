@@ -31,11 +31,23 @@
     background-image: url("/img/stardust.png");
     color: #fff;
     text-align: center;
-    @extend %padding-small;
 }
-.h-subscribe h3, .h-subscribe h4 {
+.h-subscribe h3, .h-subscribe h4, .h-subscribe h1 {
     margin-top: 0;
+    margin-bottom: 0;
 }
+
+.home-subscribe {
+    margin-top: -5px;
+}
+.home-subscribe h4, .home-subscribe h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.home-subscribe h3, .home-subscribe h2 {
+    margin-bottom: 0;
+}
+
 
 .padding-regular {
     @extend %padding-regular;

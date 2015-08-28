@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Get Community Access
+title: Membership
 permalink: /community/
 ---
 
