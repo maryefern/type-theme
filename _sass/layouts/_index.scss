@@ -17,13 +17,25 @@
     }
 }
 
-.home-text {
-    padding: 0 0 0 0 !important;
-    background-color: #f7f7f7;
-    margin-top: -5px;
+.logos {
+    padding: 3% 20% 2%;
+    display: inline-block;
+    width: 100%;
+    background-image: url(/img/linedpaper.png);
+    -webkit-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.1);
+    -moz-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.1);
+    box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.1);
 }
-.home-text h3 {
+.logos h3 {
     text-align: center;
+}
+.logos li {
+    display: inline;
+    float: left;
+    margin-right: 2em;
+}
+.logos ul {
+    padding-left: 0;
 }
 
 .h-subscribe { 
@@ -42,6 +54,10 @@
 .padding-regular {
     @extend %padding-regular;
     text-align: center;
+}
+
+.h-text {
+    @extend %padding-regular;
 }
 
 // Post listing
