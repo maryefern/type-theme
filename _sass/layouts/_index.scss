@@ -18,6 +18,7 @@
 }
 
 .home-text {
+    padding: 0 0 0 0 !important;
     background-color: #f7f7f7;
     margin-top: -5px;
 }
@@ -30,13 +31,12 @@
     background-image: url("/img/stardust.png");
     color: #fff;
     text-align: center;
-    margin-top: -5px;
+    margin-top: -5px !important;
 }
 .h-subscribe h3, .h-subscribe h4, .h-subscribe h1 {
     margin-top: 0;
     margin-bottom: 0;
 }
-
 
 .padding-regular {
     @extend %padding-regular;
