@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Membership
+title: Free Membership
 permalink: /community/
 ---
 
