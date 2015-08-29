@@ -39,14 +39,21 @@ noindex: true
 <p>The first step is to create an incentive for people to opt-in to your email list. The more irresisitble your incentive, the more people will subscribe to you, and the less money you will spend on your ads.</p>
 <p>So put some real thought into this... Your incentive doesn't have to be a lengthy eBook or a video eCourse that takes hours upon hours to create. In fact, keeping it short and easily digestible can often convert better than a long eBook.
 <p>But regardless of the length or depth of your incentive, here's the key to making it work:</p>
+
+<div class="green-box">
 <p><strong>The more <em>relevant</em> your incentive is to your target audience, the better it will convert.</strong></p>
+</div>
+
 <p>For example, if my target audience is people who have a coaching business, an incentive entitled, <a href="http://www.michaelport.com/">"5 Tools To Get You Booked Solid"</a> would be highly relevant to those people. The more you can "read their mind" with your incentive, the more likely they are to click on your ad.</p>
 <p>Remember: greater relevancy = lower ad cost!</p>
+
+<h2>The Big Huge List of Irresistible Incentive Ideas</h2>
+
 <p>To help inspire you, here is a list of some super-relevant, irresistible incentives that I've discovered in various niches...</p>
 <p>I purposefully did NOT include the author's names below, because I want you to take an unbiased look, and notice which incentives really catch your eye and spark your curiosity.</p>
 <p>(Granted, a few of these incentives do the enticing with an image rather than a catchy headline.)</p>
 <p>I'll keep adding to this list as I find more cool examples, so check back here again!</p>
-<h3>Irresistible Incentive Ideas</h3>
+
 <h4>eBooks & Guides:</h4>
 
 <p><a href="http://offers.hubspot.com/blueprint-lead-management">The Definitive Blueprint for Lead Management</a></p>

@@ -50,17 +50,19 @@ noindex: true
 
 <p>The problem was, the niche itself didn't <em>feel</em> good to me. There was something fundamentally wrong, and the only way to fix it was to break everything and start again.</p>
 
+<h2>What I learned from falling and getting back up... twice.</h2>
+
 <p>I'm assuming that you want more from your blog than just a small hobby. You probably want to make some supplemental income, or to completely support your family. Or maybe you just want to educate people about something that you are really passionate about, and you want them to sit up and pay attention.</p>
 
 <p>The point is, you are serious enough about your blog to plunk down some money on Facebook ads to grow your audience.</p>
 
 <p>Maybe you don't have a huge budget (yet), but you are willing to spend a little, especially if it means that you are going to get a bigger return on that investment in the future... like quitting your day job, or the personal fulfillment of serving others. (Or both!)</p>
 
-<h3>What I learned from falling and getting back up... twice.</h3>
-
 <p>If you want to have success online... whether that means offering services, selling stuff, or just having an impact on people's lives... you are going to have to get serious about growing your email list. There are no ifs, ands, or buts about it. In fact:</p>
 
+<div class="green-box">
 <p><strong>Having an email list is the <em>only</em> way to have any real impact online. And the bigger your list, the bigger your impact.</strong></p>
+</div>
 
 <p>After all, you can't serve anyone if you don't have a way to tell them how you can be of service. And the best way to contact people over the internet is by email.</p>
 
@@ -70,7 +72,7 @@ noindex: true
 
 <p>That's surprising to a lot of people because most bloggers think that watching your list grow like a snail crossing the road is par for the course in blogging. But in fact, that's a <em>terrible</em> idea. (Imagine if you were that snail...)</p>
 
-<h4><em>Secret #1: Growing your list slowly is a BAD idea.</em></h4>
+<h3>Secret #1: Growing your list slowly is a BAD idea.</h3>
 
 <p>Contrary to the beloved fable, this is when you need to be fast like the Hare, <em>not</em> slow like the Tortoise.</p>
 
@@ -97,19 +99,19 @@ noindex: true
 
 <p>The moral of this story is:
 
-<h4><em>Secret #2: Don't choose a blog topic that you <em>think</em> will be easy because you think list-building is hard.</em></h4>
+<h3>Secret #2: Don't choose a blog topic that you <em>think</em> will be easy because you think list-building is hard.</h3>
 
 <p>It's not hard. (Especially once you get through this course.)</p>
 
 <p>So choose a topic that you are confident will help a lot of people, because you rock at it, and it puts you on top of the world. You owe it to yourself and those you are serving to do something truly meaningful with your life.</p>
 
-<h3>One More Thing You Need to Succeed (Hint: It Has <em>Nothing</em> to Do with Facebook Ads)</h3>
+<h2>One More Thing You Need to Succeed (Hint: It Has <em>Nothing</em> to Do with Facebook Ads)</h2>
 
 <p>By using Facebook ads, I was able to grow my list quickly, which meant that I was no longer stuck in a niche that didn't suit me... I was free to choose any topic I wanted!</p>
 
 <p>BUT– and this is a <em>big</em> "but"– I couldn't have done it alone.</p>
 
-<h4><em>Secret #3: Don't try to do it alone</em></h4>
+<h3>Secret #3: Don't try to do it alone</h3>
 
 <img src="/img/mastermind.jpg" class="image-right medium">
 <p>I had a group of really smart and successful friends helping me to come up with a plan for growing that list.</p>
@@ -132,9 +134,7 @@ noindex: true
 
 <p>Mary</p>
 
-<p>P.S. If you skipped to the end, the 3 secrets to attracting an audience that puts you "on top of the world" are 1) don't grow your list slowly, 2) choose a topic that makes you happy because you rock at it, and 3) by all means <em>don't try to do it alone!</em> <a href="https://www.facebook.com/groups/persuasiveblog/">Get FREE access to our Persuasive Bloggers mastermind here.</a></p>
-
-<p>P.P.S. In the next lesson, we'll cover the first step to a wildly successful Facebook ad campaign: creating your irresistible incentive. Look for that next week!</p>
+<p>P.S. In the next lesson, we'll cover the first step to a wildly successful Facebook ad campaign: creating your irresistible incentive. Look for that next week!</p>
 
 </div>
 </div>
