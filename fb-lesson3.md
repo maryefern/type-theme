@@ -28,7 +28,7 @@ noindex: true
 </ol>
 
             <div id="gb-header" class="row">
-<h3 class="no-padding-top no-padding-bottom margin-0">Lesson 3: Shoot Your Engaging Image</h3>
+<h3 class="no-padding-top no-padding-bottom margin-0">Lesson 3: Shoot Your Engaging Image or Video</h3>
             </div>
 
 
