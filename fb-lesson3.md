@@ -82,7 +82,7 @@ noindex: true
 <li>Good lighting is key. What you want for a great portrait is soft, diffused lighting. Here are the best places to find great lighting for portraits (and videos):
 <ul><li>Near a window indoors</li><li>Outdoors at golden hour (just before sunrise or sunset)</li><li>Outdoors in complete shade at midday</li><li>Outdoors on a cloudy day</li><li>Do <em>not</em> shoot with the sun directly on the subject– this will cause harsh shadows on your face!</li></ul>
 </li>
-<li>For video, you’ll need a tripod for any “talking head” shots, to keep them perfectly still. <a href="http://joby.com/gorillapod?gclid=Cj0KEQjw35-vBRD3qKz8hPezlIIBEiQAOeKNrjkdEvgX0VOSuZr0HeEx6rrNrtJ7t9TT87qwB3k7MIUaAh0z8P8HAQ">GorillaPods</a> work great and are especially perfect if you are using a smartphone.</li>
+<li>For video, you may need a tripod for any “talking head” shots that you want to keep perfectly still. <a href="http://joby.com/gorillapod?gclid=Cj0KEQjw35-vBRD3qKz8hPezlIIBEiQAOeKNrjkdEvgX0VOSuZr0HeEx6rrNrtJ7t9TT87qwB3k7MIUaAh0z8P8HAQ">GorillaPods</a> work great and are especially perfect if you are using a smartphone.</li>
 <li>For any moving <a href="https://www.youtube.com/watch?v=kMNVn7CB3HQ">“b-roll” shots</a> (supplemental footage that cuts in between talking head shots), I like to use the <a href="https://itunes.apple.com/us/app/hyperlapse-from-instagram/id740146917?mt=8">Hyperlapse app</a> on my phone, which smoothes out motion without having any special equipment.</li>
 </ol>
 
