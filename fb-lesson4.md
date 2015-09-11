@@ -71,7 +71,7 @@ noindex: true
 <p>Or, you can state the call-to-action.</p>
 <p><strong>Example:</strong> <em>Click the link to sign up now!</em></p>
 
-<div class="green-box"><h4><em>Call-to-Action Button:</em> Sign Up</h4></div>
+<div class="green-box"><h4><em>Call-to-Action Button:</em> Sign Up (OR Learn More)</h4></div>
 <p>Choosing the <em>Sign Up</em> button usually works best for this kind of Facebook Ad, because we are asking them to give us their email address before they get the incentive. It is important that the button accurately states what is going to happen when they click on it.</p>
 <p>However, if your landing page provides a lot of content and valuable information <em>up front</em>, then you could use the <em>Learn More</em> button.</p>
 <p>(<em>Learn More</em> may convert better because it sounds like less of a committment than <em>Sign Up</em>. However, <em>only</em> use it if you actually have more information on your landing page.)</p>
