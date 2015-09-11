@@ -35,7 +35,8 @@ noindex: true
 <div class="padding-regular">
 
 <div class="text-align-left">
-<p>At this point, you have created an irresistible incentive to attract your target audience, and you became a "relatable rockstar" when you shot your engaging ad image (or video). The next step is to write ad copy that persuades your target audience to click and subscribe to your email list!</p>
+<p>At this point, you have created an irresistible incentive to attract your target audience, and you became a "relatable rockstar" when you shot your engaging ad image (or video).</p>
+<p>The next step is to write ad copy that persuades your target audience to click and subscribe to your email list!</p>
 <p>There are many different ways of writing your ad copy, and you should experiment to find out what works best for your target audience.</p>
 <p>However, I have learned from experience, and from spying on many other advertisers, that there is a formula that just seems to work each and every time...</p>
 <p>...Just like magic. It's virtually fool-proof.</p>
