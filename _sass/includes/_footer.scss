@@ -8,3 +8,28 @@
 border-top: 1px solid $border-color;
     letter-spacing: 0.1em;
 }
+
+.site-footer {
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      line-height: 1.5;
+      float: right;
+      text-align: right;
+    }
+    li {
+      display: inline;
+      float: center;
+      margin-right: 0.4em;
+    }
+    @media (max-width: 480px) {
+      ul {
+        display: inline-block;
+        float: left;
+        padding-top: $padding-small;
+        text-align: left;
+        width: 100%;
+      }
+    }
+  }

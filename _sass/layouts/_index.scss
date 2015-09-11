@@ -1,33 +1,72 @@
+// Top nav
+
+a.cta {
+    padding: 0.1em 0.75em;
+    line-height: 1.5;
+    height: 2em;
+    margin-top: -3px;
+    background: #ecf05c;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    text-shadow: none;
+    color: #383838;
+    -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    border: 2px solid #ecf05c;
+}
+
+
+.community-form {
+    margin-top: -90px !important;
+}
+
+@media only screen and (max-width: 480px) {
+    .community-form {
+        margin-top: 0px !important;
+    }
+}
+
+li.no-padding {
+    padding: 0 !important;
+}
+
 // Hero image and header text
 
 .hero {
-    height: 500px;
     text-align: center;
     display: inline-block;
     width: 100%;
     background-color:$header-desc-background-color;
-    background-image: url("/img/southpark.jpg");
-    background-size: cover;
+    background-image: url("/img/stardust.png");
     position: relative;
+    color: #fff;
+    padding: 3% 20%;
 }
 
-@media only screen and (max-width: 480px) {
-    .hero {
-        height: 350px;
-    }
+.hero h1 {
+    margin-bottom: 0;
+}
+
+.hero-below {
+    @extend %padding-small;  
+    background-color: #f7f7f7;
+    text-align: center;
 }
 
 .logos {
-    padding: 3% 20% 2%;
     display: inline-block;
     width: 100%;
-    background-image: url(/img/linedpaper.png);
-    -webkit-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.1);
-    -moz-box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.1);
-    box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.1);
+    color: #d9d9d9;
 }
 .logos h3 {
     text-align: center;
+}
+.logos h2 {
+    margin-top: 0;
 }
 .logos li {
     display: inline;
@@ -37,14 +76,19 @@
 .logos ul {
     padding-left: 0;
 }
+.logos img {
+    opacity: 0.5;
+}
+.container {
+    padding: 5% 10% 5% 43%;
+}
 
 .h-subscribe { 
-    margin-top: -5px !important;
     background-color: #444349;
     background-image: url("/img/stardust.png");
     color: #fff;
     text-align: center;
-    padding: 3% 20%;
+    padding: 5%;
 }
 .h-subscribe h2, .h-subscribe h4, .h-subscribe h1 {
     margin-top: 0;
@@ -62,6 +106,35 @@
 .h-text {
     @extend %padding-regular;
 }
+
+.h-text-2 {
+    @extend %padding-regular;
+    background: #f7f7f7;
+}
+
+.home-mary {
+    position: relative;
+    width: 100%;
+}
+
+.home-mary .bubble-left {
+    position: absolute;
+    top: 10%;
+    left: 44%;
+    right: 5%;
+    text-align: left;
+}
+
+.home-mary .bubble-left::before, .home-mary .bubble-left::after {
+    top: 20%;
+}
+
+@media only screen and (max-width: 875px) {
+    .home-mary .bubble-left {
+        visibility: hidden;
+    }
+}
+
 
 // Post listing
 .posts {

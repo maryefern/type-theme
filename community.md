@@ -1,14 +1,14 @@
 ---
 layout: landing
-title: Free Membership
+title: Free Mastermind
 permalink: /community/
 ---
 
 <div class="container-fluid">
             <div id="invite-header" class="row">
             
-                    <h1>Persuasive Bloggers Community</h1>
-                    <p>Join below to get <em>free</em> writing prompts, headline critiques, LIVE traffic & list-building strategy sessions, access to the private Facebook group and much more!</p>
+                    <h1>Persuasive Bloggers Mastermind</h1>
+                    <p>Join below to get access to the private Facebook group, plus <em>free</em> writing prompts, headline critiques, LIVE blogging strategy sessions, and much more!</p>
                     
             </div>
                     
@@ -33,7 +33,7 @@ permalink: /community/
 
 <script src="https://app.convertkit.com/assets/CKJS4.js?v=21"></script>
 
-<div class="ck_form ck_vertical_subscription_form shadow">
+<div class="ck_form ck_vertical_subscription_form shadow community-form">
 
   <div class="ck_form_fields">
 
