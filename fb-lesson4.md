@@ -38,13 +38,13 @@ noindex: true
 <p>At this point, you have created an irresistible incentive to attract your target audience, and you became a "relatable rockstar" when you shot your engaging ad image (or video).</p>
 <p>The next step is to write ad copy that persuades your target audience to click and subscribe to your email list!</p>
 <p>There are many different ways of writing your ad copy, and you should experiment to find out what works best for your target audience.</p>
-<p>However, I have learned from experience, and from spying on many other advertisers, that there is a formula that just seems to work each and every time...</p>
-<p>...Just like magic. It's virtually fool-proof.</p>
+<p>However, I have learned from experience, and from spying on many other advertisers, that there is a formula that just seems to work each and every time... just like magic.</p>
+<p>It's virtually fool-proof.</p>
 <p>Ready to learn the formula?</p>
 <p>It's a quick and simple template that you can plug and play:</p>
 <h2>The Fool-Proof Facebook Ad Copy Formula</h2>
 <div class="green-box"><h4><em>Headline:</em> FREE [INCENTIVE]: [Brief Description]</h4></div>
-<p>Remember how your incentive needs to be relevant to your audience, and the more relevant it is the better your ad will convert? Well, your headline's job is to explain what your incentive is very simply, in a few short words. If your incentive is highly relevant to your target audience, it will basically sell itself.</p>
+<p>Remember how your incentive needs to be relevant to your audience, and the more relevant it is the better your ad will convert? Well, your headline's job is to explain what your incentive is, in a few short words. If your incentive is highly relevant to your target audience, it will basically sell itself.</p>
 <p>All you need to do is make sure it is crystal clear what they get when they sign up (is it a PDF download? a video? a mini course? an eBook?), and that your offer is FREE.</p>
 <p><strong>Example #1:</strong> <em>FREE MINI COURSE: Build a Website From Scratch</em></p>
 <p><strong>Example #2:</strong> <em>FREE VIDEO: Build Trust, Authority & Profit in Your Business</em></p>
