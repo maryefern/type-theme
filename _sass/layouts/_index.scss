@@ -57,6 +57,12 @@ li.no-padding {
     text-align: center;
 }
 
+@media only screen and (max-width: 480px) {
+    .hero {
+        font-size: 0.8em;
+    }
+}
+
 .logos {
     display: inline-block;
     width: 100%;
