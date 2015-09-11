@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Facebook Ads Class, Lesson 3
+title: Facebook Ads Class, Lesson 4
 permalink: /fb-lesson4/
 hide: true
 noindex: true
