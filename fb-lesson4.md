@@ -50,10 +50,12 @@ noindex: true
 <p>Example #3: "FREE FITNESS CHALLENGE: Say it, Sweat it, Get it"</p>
 
 <div class="green-box"><h4><em>Text:</em> [Hook question]? [Establish authority]. [Quick win]. [How to sign up].</h4></div>
+<img src="/img/wedmore-ad.png" style="max-width:400px;float:right;margin-left:1em;">
 <p>In the first sentence, ask a question that hooks your target reader by asking them if they want the RESULT that your incentive gives them.</p>
 <p>In the second sentence, establish your authority by making a statement that proves you have something valuable to say on the topic. (You don't have to have special credentials to have authority on a topic... If you used to feel the same way as your target reader, then condense that story down to one sentence.)</p>
 <p>In the third sentence, state your "quick win". What will they be able to accomplish, what baby step will they have achieved, as a result of consuming your incentive?</p>
 <p>In the last sentence, state very clearly how to sign up, and include the URL to your landing page.</p>
+
 <p>Example:</p>
 <p>"Are you looking to grow your business with YouTube? For the past 7 years, I've been teaching entrepreneurs how to build their brand with video!<br>I'm hosting a new webinar showing you The 7 Steps to Profiting from YouTube!<br>To reserve your spot click the link below:<br>http://www.example.com"</p>
 
