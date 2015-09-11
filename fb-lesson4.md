@@ -73,7 +73,8 @@ noindex: true
 
 <div class="green-box"><h4><em>Call-to-Action Button:</em> Sign Up</h4></div>
 <p>Choosing the <em>Sign Up</em> button usually works best for this kind of Facebook Ad, because we are asking them to give us their email address before they get the incentive. It is important that the button accurately states what is going to happen when they click on it.</p>
-<p>However, if your landing page provides a lot of content and valuable information <em>up front</em>, then you could use the <em>Learn More</em> button. (<em>Learn More</em> may convert better because it sounds like less of a committment than <em>Sign Up</em>. However, <em>only</em> use it if you actually have more information on your landing page.)</p>
+<p>However, if your landing page provides a lot of content and valuable information <em>up front</em>, then you could use the <em>Learn More</em> button.</p>
+<p>(<em>Learn More</em> may convert better because it sounds like less of a committment than <em>Sign Up</em>. However, <em>only</em> use it if you actually have more information on your landing page.)</p>
 <h2>Go write some persuasive ad copy!</h2>
 <p>Now you have a fool-proof template for getting the click to subscribe. After this, you will be done creating your ad, and all you'll have to do is set it up and run it!</p>
 <p>If you need help, remember our mastermind group on Facebook is here for you:</p>
