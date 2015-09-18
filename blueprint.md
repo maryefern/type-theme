@@ -6,7 +6,7 @@ hide: true
 ---
 
 
-<div style="background-color:#01e7e0;background-image:url(/img/greenwall.jpg);background-repeat:no-repeat;background-size:cover;">
+<div style="background-image:url(/img/bluewall.jpg);background-repeat:no-repeat;background-size:cover;">
 
 
 <div class="shadow">
