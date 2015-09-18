@@ -205,8 +205,8 @@ p.regular { font-size: 0.85em; }
 .subhead {
     font-size: 1.2em;
 }
-.no-margin { margin: 0; }
-.no-margin-bottom { margin-bottom: 0; }
+.no-margin { margin: 0 !important; }
+.no-margin-bottom { margin-bottom: 0 !important; }
 blockquote {
     border-left: 4px solid #ecf05c;
     padding: 1em 1em;
@@ -348,6 +348,12 @@ a {
 .no-padding-bottom {
     padding-bottom: 0 !important;
     -webkit-margin-after: 0 !important;
+}
+.no-margin-top {
+    margin-top: 0 !important;
+}
+#space {
+    min-height: 700px;
 }
 // Responsive media
 iframe, img, embed, object, video {
