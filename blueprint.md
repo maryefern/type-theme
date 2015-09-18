@@ -185,12 +185,12 @@ hide: true
 }
 
 .ck_subscribe_button {
-    background-color: #01e7e0 !important;
-    border-color: #01e7e0 !important;
+    background-color: #ecf05c !important;
+    border-color: #ecf05c !important;
 }
 .ck_subscribe_button:hover {
     background-color: transparent !important;
-    color: #01e7e0 !important;
+    color: #ecf05c !important;
 }
 .ck_form {
 background-color: #444349 !important;
