@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Hi Chalene!
+title: Hey Chalene!
 permalink: /chalene/
 hide: true
 ---
