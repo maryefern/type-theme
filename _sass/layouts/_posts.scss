@@ -56,6 +56,20 @@ header {
     color: #fff;
 }
 
+.offer-box {
+    background-color: #444349;
+    background-image: url("/img/stardust.png");
+    @extend %padding-small;
+    text-align: center;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    color: #fff;
+}
+
+.offer-box .button-large:hover {
+    color: #fff !important;
+}
+
 .dark {
     color: #fff;
     background-color: #444349;

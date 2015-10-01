@@ -52,7 +52,13 @@ noindex: true
 <p>To help inspire you, here is a list of some super-relevant, irresistible incentives that I've discovered in various niches...</p>
 <p>I purposefully did NOT include the author's names below, because I want you to take an unbiased look, and notice which incentives really catch your eye and spark your curiosity.</p>
 <p>(Granted, a few of these incentives do the enticing with an image rather than a catchy headline.)</p>
-<p>I'll keep adding to this list as I find more cool examples, so check back here again!</p>
+<p>I'll keep adding to this list as I find more cool examples, so check back here again soon!</p>
+
+<div class="offer-box">
+<h3><em>Free Workshop:</em> How to Create Killer Facebook Ads on Less than $10 a Day</h3>
+<a class="button button-large" href="http://fbadsfornewbies.com/maryweb">Click to Learn More</a>
+<p>  </p>
+</div>
 
 <h4>eBooks & Guides:</h4>
 
@@ -178,13 +184,10 @@ noindex: true
 </div>
 </div>
 
-<hr>
-
-<!-- Disqus -->
-{% if site.theme.disqus_shortname %}
-<div class="comments">
-  {% include disqus.html %}
 </div>
-{% endif %}
 
+<div class="opt-in">
+<h3><em>Free Workshop:</em> How to Create Killer Facebook Ads on Less than $10 a Day</h3>
+<a class="button button-large" href="http://fbadsfornewbies.com/maryweb">Click to Learn More</a>
+<p>  </p>
 </div>

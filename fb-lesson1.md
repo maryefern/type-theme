@@ -139,13 +139,11 @@ noindex: true
 </div>
 </div>
 
-<hr>
-
-<!-- Disqus -->
-{% if site.theme.disqus_shortname %}
-<div class="comments">
-  {% include disqus.html %}
 </div>
-{% endif %}
 
+
+<div class="offer-box">
+<h3><em>Free Workshop:</em> How to Create Killer Facebook Ads on Less than $10 a Day</h3>
+<a class="button button-large" href="http://fbadsfornewbies.com/maryweb">Click to Learn More</a>
+<p>  </p>
 </div>
