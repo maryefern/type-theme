@@ -35,9 +35,9 @@ noindex: true
 <div class="padding-regular">
 
 <div class="text-align-left">
-<p>Last time, we wrote some persuasive copy for your ad and, combined with your engaging image, BAM! You now have a Facebook ad that is virtually <em>guaranteed</em> to get results...</p>
+<p>Last time, we wrote some persuasive copy for your ad and, combined with your engaging image, BAM! You now have a Facebook ad that is virtually <em>guaranteed</em> to get you results...</p>
 
-<p>IF we target it correctly.</p>
+<p>IF you target it correctly.</p>
 
 <p>Get this part wrong, and your whole campaign will fall apart. Get it right, and your results will shoot through the roof.</p>
 
