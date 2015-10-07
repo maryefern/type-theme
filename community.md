@@ -15,19 +15,19 @@ permalink: /community/
 
 <style type="text/css">
 .ck_form {
-    background-color: #ecf05c;
+    background-color: #f7f7f7;
     padding: 3%;
     color: #6E6E6E;
     margin: 0;
 }
 .ck_form .ck_subscribe_button {
-    background: #444349 !important;
-    color: #fff !important;
-    border: 2px solid #444349 !important;
 }
 .ck_form .ck_subscribe_button:hover {
     background: transparent !important;
     color: #383838 !important;
+}
+.ck_form input[type="text"], .ck_form input[type="email"] {
+    background-color: #fff;
 }
 </style>
 
