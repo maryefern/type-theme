@@ -33,7 +33,7 @@ permalink: /community/
 
 <script src="https://app.convertkit.com/assets/CKJS4.js?v=21"></script>
 
-<div class="ck_form ck_vertical_subscription_form shadow">
+<div class="ck_form ck_vertical_subscription_form">
 
   <div class="ck_form_fields">
 
