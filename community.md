@@ -12,7 +12,7 @@ permalink: /community/
                     
             </div>
                     
-<article>
+
 <style type="text/css">
 .ck_form {
     background-color: #ecf05c;
@@ -33,7 +33,7 @@ permalink: /community/
 
 <script src="https://app.convertkit.com/assets/CKJS4.js?v=21"></script>
 
-<div class="ck_form ck_vertical_subscription_form shadow community-form">
+<div class="ck_form ck_vertical_subscription_form shadow">
 
   <div class="ck_form_fields">
 
@@ -62,9 +62,8 @@ permalink: /community/
   
  </div>
 
-&nbsp;
-<hr>
-&nbsp;
+<article>
+
 <img src="/img/photoshoot-(20).jpg" class="image-right big">
 <h4>About Our Community (Please Read!)</h4>
 
