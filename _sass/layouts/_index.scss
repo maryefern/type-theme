@@ -58,7 +58,7 @@ li.no-padding {
 }
 
 @media only screen and (max-width: 480px) {
-    .hero {
+    .hero, #invite-header {
         font-size: 0.8em;
         padding: 3% 5%;
     }
