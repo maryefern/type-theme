@@ -7,8 +7,8 @@ permalink: /community/
 <div class="container-fluid">
             <div id="invite-header" class="row">
             
-                    <h1>Persuasive Bloggers Mastermind</h1>
-                    <p>Join below to get access to the private Facebook group. You'll also get <em>free</em> writing prompts, headline critiques, live trainings, and much more!</p>
+                    <h1>Persuasive Bloggers Community</h1>
+                    <p>Join below to get access to the private mastermind group on Facebook. You'll also get <em>free</em> writing prompts, headline critiques, live trainings, and much more!</p>
                     
             </div>
                     
