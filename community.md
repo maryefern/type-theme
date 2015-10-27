@@ -8,7 +8,7 @@ permalink: /community/
             <div id="invite-header" class="row">
             
                     <h1>Persuasive Bloggers Mastermind</h1>
-                    <p>Join below to get access to the private Facebook group, plus <em>free</em> writing prompts, headline critiques, LIVE blogging strategy sessions, and much more!</p>
+                    <p>Join below to get access to the private Facebook group. You'll also get <em>free</em> writing prompts, headline critiques, live trainings, and much more!</p>
                     
             </div>
                     
@@ -65,15 +65,18 @@ permalink: /community/
 <article>
 
 <img src="/img/photoshoot-(20).jpg" class="image-right big">
-<h4>About Our Community (Please Read!)</h4>
+<h4>Are You in the Right Place?</h4>
 
-<p>We are a new community for serious bloggers and entrepreneurs, on our way to becoming some of the top experts in our fields. Beginners to advanced bloggers are welcome.</p>
+<p>Hi! I'm Mary Fernandez. Got a blog for your business? (Or planning to launch one?) Well then, you've come to the right place...</p>
 
-<p>To apply, <em>you must have a blog for your business, or you are planning to launch one.</em> (We are looking to make money online. We are not "hobby" bloggers, even though we think those blogs are awesome.)</p>
+<p>Persuasive Bloggers is a warm, unselfish community for entrepreneurs, on our way to becoming some of the top experts in our fields.</p>
 
-<p>Most importantly, you must have the drive and work ethic to overcome obstacles and <em>take action</em>. We are world-changers and future world-changers, and we are passionate about giving value to everyone around us. If you do not have anything positive or supportive to add to the discussion, please do <em>not</em> join this group.</p>
+<p>We're passionate, positive, and focused.</p>
 
-<p><em>Promoting your business is prohibited</em> unless specifically asked for. However, we will give you opportunities to promote your blog and, from time to time, Mary will also feature noteworthy bloggers from the group who are doing something special or extraordinary!</p>
+<p>Beginners to advanced bloggers are welcome!</p>
+
+<p>If that's you, we'd love for you to join us...</p>
+<p>Enter your name and email above, <strong>hit the yellow button</strong>, and I'll see <em>you</em> on the inside!</p>
 </article>
 
         
