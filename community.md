@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Free Mastermind
+title: Free Community
 permalink: /community/
 ---
 
