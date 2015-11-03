@@ -84,7 +84,7 @@ noindex: true
 
 <div class="offer-box">
 <h3><em>Free Workshop:</em> How to Create Killer Facebook Ads on Less than $10 a Day</h3>
-<a class="button button-large" href="http://fbadsfornewbies.com/maryweb">Click to Learn More</a>
+<a class="button button-large green-button" href="http://fbadsfornewbies.com/maryweb">Click to Learn More</a>
 <p>  </p>
 </div>
 

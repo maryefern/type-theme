@@ -134,11 +134,8 @@ p.gray-back {
 
 
 .highlight-box {
-    background: #fff;
     margin-bottom: 2em;
-    color: #383838;
-    padding: 3% 5%;
-    border-left: 5px solid #ecf05c;
+    color: #fff;
     cursor: pointer;
 }
 
@@ -336,7 +333,6 @@ ol.progtrckr li.progtrckr-done-green:before {
 }
 
 li {
-    padding: 10px 0 10px;
 }
 hr {
   border: 0;
@@ -443,6 +439,10 @@ a .fa:hover {
     color: #fff !important;
 }
 
+.green-button {
+    background-color:#b8fe83;
+}
+
 // Speech bubbles
 
 .text-align-left {
@@ -455,11 +455,10 @@ position: relative;
 width: auto;
 height: auto;
 @extend %padding-small;
-background-color: #f7f7f7;
+background-color: #ecf05c;
 -webkit-border-radius: 10px;
 -moz-border-radius: 10px;
 border-radius: 10px;
-border: rgba(0,0,0,0.1) solid 1px;
     text-align: center;
     color: #383838;
 }
@@ -470,7 +469,7 @@ content: '';
 position: absolute;
 border-style: solid;
 border-width: 15px 15px 15px 0;
-border-color: transparent #f7f7f7;
+border-color: transparent #ecf05c;
 display: block;
 width: 0;
 z-index: 1;
@@ -485,7 +484,7 @@ content: '';
 position: absolute;
 border-style: solid;
 border-width: 15px 15px 15px 0;
-border-color: transparent rgba(0,0,0,0.1);
+border-color: transparent;
 display: block;
 width: 0;
 z-index: 0;
@@ -498,7 +497,7 @@ top: 50%;
 @media only screen and (max-width: 480px) {
 .bubble-left:after {
     border-width: 0 15px 15px;
-    border-color: #f7f7f7 transparent;
+    border-color: #ecf05c transparent;
     margin-top: 0;
     margin-left: -15px;
     top: -15px;
@@ -506,7 +505,7 @@ top: 50%;
 }
 .bubble-left:before {
     border-width: 0 15px 15px;
-    border-color: rgba(0,0,0,0.1) transparent;
+    border-color:  transparent;
     margin-top: 0;
     left: 0;
     margin-left: -15px;
@@ -521,6 +520,17 @@ top: 50%;
     border-radius: 50%;
 }
 
+// Clip Text to Background Image
+
+.backgroundclip {
+    color: #383838;
+ -webkit-text-fill-color: transparent;
+ background: -webkit-linear-gradient(transparent, transparent),         url(/img/bluetriangles.jpg) repeat;
+ background: -o-linear-gradient(transparent, transparent);
+ -webkit-background-clip: text;
+    text-transform: uppercase;
+}
+ 
 // ConvertKit
 
 /* Layout */
@@ -745,6 +755,62 @@ top: 50%;
 .span_3_of_3 { width: 100%; }
 .span_2_of_3 { width: 65.66%; }
 .span_1_of_3 { width: 31.33%; }
+
+/*  GRID OF FOUR  */
+.span_4_of_4 {
+	width: 100%;
+}
+.span_3_of_4 {
+	width: 74.25%;
+}
+.span_2_of_4 {
+	width: 48.5%;
+}
+.span_1_of_4 {
+	width: 22.75%;
+}
+
+/*  GRID OF FIVE  */
+.span_5_of_5 {
+	width: 100%;
+}
+.span_4_of_5 {
+	width: 79.4%;
+}
+.span_3_of_5 {
+	width: 58.8%;
+}
+.span_2_of_5 {
+	width: 38.2%;
+}
+.span_1_of_5 {
+	width: 17.6%;
+}
+
+/*  GRID OF SIX  */
+.span_6_of_6 {
+	width: 100%;
+}
+
+.span_5_of_6 {
+  	width: 82.83%;
+}
+
+.span_4_of_6 {
+  	width: 65.66%;
+}
+
+.span_3_of_6 {
+  	width: 48.5%;
+}
+
+.span_2_of_6 {
+  	width: 31.33%;
+}
+
+.span_1_of_6 {
+  	width: 14.16%;
+}
 
 /*  GO FULL WIDTH BELOW 480 PIXELS */
 @media only screen and (max-width: 480px) {
@@ -1084,11 +1150,12 @@ top: 50%;
 }
 
 #invite-header { 
-    background-color: #444349;
-    background-image: url("/img/stardust.png");
+    background-color: #343434;
+    background-image: url("/img/lodyas.png");
     text-align: center;
     @extend %padding-regular;
     color: #fff;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
 }
 
 #invite-header h1 {

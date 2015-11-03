@@ -40,11 +40,13 @@ li.no-padding {
     text-align: center;
     display: inline-block;
     width: 100%;
-    background-color:$header-desc-background-color;
-    background-image: url("/img/stardust.png");
+    background-color: #363ABD;
+    background-image: url("/img/skulls.png");
     position: relative;
     color: #fff;
     padding: 3% 20%;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    border-top: 1px solid rgba(0,0,0,0.1);
 }
 
 .hero h1 {
@@ -52,7 +54,7 @@ li.no-padding {
 }
 
 .hero-below {
-    @extend %padding-small;  
+    padding: 3% 20%;  
     background-color: #f7f7f7;
     text-align: center;
 }
@@ -67,7 +69,6 @@ li.no-padding {
 .logos {
     display: inline-block;
     width: 100%;
-    color: #d9d9d9;
 }
 .logos h3 {
     text-align: center;
@@ -112,11 +113,26 @@ li.no-padding {
 
 .h-text {
     @extend %padding-regular;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.h-text-1 {
+    padding: 3% 20% 0.67em 20%;
+}
+
+@media only screen and (max-width: 1000px) {
+    .h-text-1 {
+        padding: 3% 12.5% 0.67em 12.5%;
+    }
 }
 
 .h-text-2 {
     @extend %padding-regular;
-    background: #f7f7f7;
+    background-image: url("/img/lodyas.png");
+    background-color: #f7f7f7;
+    border-top: 1px solid rgba(0,0,0,0.1);
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    color: #fff;
 }
 
 .home-mary {
