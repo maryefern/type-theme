@@ -116,6 +116,11 @@ li.no-padding {
     border-bottom: 1px solid rgba(0,0,0,0.1);
 }
 
+.h-text-wide {
+    @extend %padding-small;    
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
 .h-text-1 {
     padding: 3% 20% 0.67em 20%;
 }
