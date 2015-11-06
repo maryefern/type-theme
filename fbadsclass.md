@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: FB Ads Class
+title: Facebook Ads Class
 permalink: /fbadsclass/
 hide: true
 img_preview: /img/fbadsclass-thumb.png

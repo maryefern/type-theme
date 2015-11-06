@@ -13,6 +13,7 @@ permalink: /community/
     padding: 3%;
     margin: 0;
     padding-bottom:50px;
+    color: #383838;
 }
 .ck_form .ck_subscribe_button {
     font-weight: bold;
@@ -26,7 +27,7 @@ permalink: /community/
     }
 .ck_form input[type="text"], .ck_form input[type="email"] {
     background-color: #fff;
-    color: #383838;
+    color: #383838 !important;
 }
 .ck_guarantee {
     color: #383838 !important;
