@@ -26,6 +26,7 @@ permalink: /community/
     }
 .ck_form input[type="text"], .ck_form input[type="email"] {
     background-color: #fff;
+    color: #383838;
 }
 .ck_guarantee {
     color: #383838 !important;
