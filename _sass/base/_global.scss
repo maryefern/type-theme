@@ -175,6 +175,13 @@ p.gray-back {
     margin-bottom: 1em;
     color: #383838;
 }
+.dark-box {
+    background-color: #444349;
+    background-image: url(/img/stardust.png);
+    padding: 3% 5%;
+    margin-bottom: 1em;
+    color: #fff;
+}
 
 .highlight {
     background-color: #f7f7f7;
@@ -280,6 +287,20 @@ p, ol, ul, dl, .math-display {
 .math-display {
   display: inline-block;
   width: 100%;
+}
+
+ul.table-of-contents {
+    padding-left:1em;
+}
+ul.table-of-contents li a {
+    color: #383838;
+}
+ul.table-of-contents li a:hover {
+    text-decoration: none;
+}
+.no-hover:hover {
+    text-decoration: none;
+    color: #383838;
 }
 ol, ul {
   list-style-position: outside;
@@ -568,6 +589,10 @@ top: 50%;
 
 #ck_subscribe_form {
   clear: both;
+}
+
+.ck_form input[type="text"], .ck_form input[type="email"] {
+    color: #383838 !important;
 }
 
 /* Element Queries — uses JS */
