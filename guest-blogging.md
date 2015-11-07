@@ -209,7 +209,6 @@ Blog | How to write for them
 ------------- | -------------
 <a href="http://basicblogtips.com/">Basic Blog Tips</a> | <a href="http://basicblogtips.com/contact">Contact</a>
 <a href="http://beabetterblogger.com/write-for-us/">Be a Better Blogger</a> | <a href="http://beabetterblogger.com/write-for-us/">Instructions</a>
-<a href="http://boostblogtraffic.com/">Boost Blog Traffic</a> | <a href="http://boostblogtraffic.com/write-for-us/">Instructions</a>
 <a href="http://contentmarketinginstitute.com/">Content Marketing Institute</a> | <a href="http://contentmarketinginstitute.com/blog/blog-guidelines/">Instructions</a>
 <a href="http://contentmarketingup.com/">Content Marketing Up</a> | <a href="http://contentmarketingup.com/writing-portfolio/submit-guest-post/">Instructions</a>
 <a href="http://www.ducttapemarketing.com/blog/">Duct Tape Marketing</a> | <a href="http://www.ducttapemarketing.com/contact-duct-tape-marketing/">Application</a>
