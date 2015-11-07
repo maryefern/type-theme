@@ -3,6 +3,7 @@ layout: page
 title: The Epic List of Guest Blogging Opportunities
 permalink: /guest-blogging-list/
 hide: true
+img_preview: /img/guestblogginglist-thumb.png
 ---
 
 <!--social-->
