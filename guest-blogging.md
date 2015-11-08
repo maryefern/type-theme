@@ -213,13 +213,13 @@ Blog | How to write for them
 <a href="http://contentmarketingup.com/">Content Marketing Up</a> | <a href="http://contentmarketingup.com/writing-portfolio/submit-guest-post/">Instructions</a>
 <a href="http://www.ducttapemarketing.com/blog/">Duct Tape Marketing</a> | <a href="http://www.ducttapemarketing.com/contact-duct-tape-marketing/">Application</a>
 <a href="http://www.famousbloggers.net/blog">Famous Bloggers</a> | <a href="http://www.famousbloggers.net/submit-your-article">Instructions</a>
-<a href="http://www.firepolemarketing.com/blog/">Firepole Marketing</a> | <a href="http://www.firepolemarketing.com/guest-posting/">Instructions</a>
 <a href="http://blog.hubspot.com/">HubSpot</a> | <a href="http://blog.hubspot.com/guest-blogging-guidelines">Instructions</a>
 <a href="http://www.jeffbullas.com/">Jeff Bullas</a> | <a href="http://www.jeffbullas.com/contact/">Contact</a>
 <a href="https://blog.kissmetrics.com/">KISSmetrics</a> | <a href="https://blog.kissmetrics.com/guest-blogging-for-kissmetrics/">Instructions</a>
 <a href="http://www.marketingprofs.com/">Marketing Profs</a> | <a href="http://www.marketingprofs.com/write-for-us">Instructions</a>
 <a href="http://www.matthewwoodward.co.uk/">Matthew Woodward</a> | <a href="http://www.matthewwoodward.co.uk/write-for-us/">Instructions</a>
 <a href="https://moz.com/blog">Moz</a> | <a href="https://moz.com/blog/inside-youmoz-how-to-guest-blog-for-moz">Instructions</a>
+<a href="http://www.mirasee.com">Mirasee</a> | <a href="http://www.mirasee.com/write-for-us">Instructions</a>
 <a href="http://www.socialmediaexaminer.com/">Social Media Examiner</a> | <a href="http://www.socialmediaexaminer.com/writers/">Instructions</a>
 <a href="http://socialmouths.com/blog/">Socialmouths</a> | <a href="http://socialmouths.com/blog/contact-form/">Contact</a>
 <a href="http://www.successfulblogging.com/">Successful Blogging</a> | <a href="http://www.successfulblogging.com/write-for-successful-blogging/">Instructions</a>
