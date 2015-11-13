@@ -248,6 +248,7 @@ Blog | How to write for them
 Blog | How to write for them
 ------------- | -------------
 <a href="http://afineparent.com/">A Fine Parent</a> | <a href="http://afineparent.com/write">Instructions</a>
+<a href="http://www.bonbonbreak.com/">BonBon Break</a> | <a href="http://www.bonbonbreak.com/submissions/">Instructions</a>
 <a href="http://www.icanteachmychild.com/">I Can Teach My Child!</a> | <a href="http://www.icanteachmychild.com/guest-post-submission-guidelines/">Instructions</a>
 <a href="http://www.mothering.com/">Mothering</a> | <a href="http://www.mothering.com/articles/about/">Instructions</a>
 <a href="http://www.scarymommy.com/">Scary Mommy</a> | <a href="http://www.scarymommy.com/write-for-scary-mommy/">Instructions</a>
