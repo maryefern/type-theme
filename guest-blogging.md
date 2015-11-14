@@ -164,6 +164,7 @@ Blog | How to write for them
 <a href="http://12most.com/category/lifestyle/">12 Most</a> | <a href="http://12most.com/how-to-guest-post/">Instructions</a>
 <a href="http://aggieskitchen.com/">Aggie's Kitchen</a> | <a href="http://aggieskitchen.com/contact-me/">Contact</a>
 <a href="http://foodsense.is/">Food Sense</a> | <a href="http://foodsense.is/contribute">Instructions</a>
+<a href="http://www.krystalskitsch.com">Krystal's Kitsch</a> | <a href="http://www.krystalskitsch.com/contact">Contact to Get Guidelines</a>
 <a href="http://matadornetwork.com/topics/food-drink/">Matador Network</a> | <a href="http://matadornetwork.com/content/contributors-and-job-applicants/">Instructions</a>
 <a href="http://migrationology.com/">Migrationology</a> | <a href="http://migrationology.com/contact-me/">Contact</a>
 <a href="http://pinchofyum.com/">Pinch of Yum</a> | <a href="http://pinchofyum.com/contact">Contact</a>
@@ -209,6 +210,7 @@ Blog | How to write for them
 ------------- | -------------
 <a href="http://basicblogtips.com/">Basic Blog Tips</a> | <a href="http://basicblogtips.com/contact">Contact</a>
 <a href="http://beabetterblogger.com/write-for-us/">Be a Better Blogger</a> | <a href="http://beabetterblogger.com/write-for-us/">Instructions</a>
+<a href="http://www.bloggersgetsocial.com">Bloggers Get Social</a> | <a href="http://www.bloggersgetsocial.com/about-us/">Contact for Guidelines</a>
 <a href="http://contentmarketinginstitute.com/">Content Marketing Institute</a> | <a href="http://contentmarketinginstitute.com/blog/blog-guidelines/">Instructions</a>
 <a href="http://contentmarketingup.com/">Content Marketing Up</a> | <a href="http://contentmarketingup.com/writing-portfolio/submit-guest-post/">Instructions</a>
 <a href="http://www.ducttapemarketing.com/blog/">Duct Tape Marketing</a> | <a href="http://www.ducttapemarketing.com/contact-duct-tape-marketing/">Application</a>
