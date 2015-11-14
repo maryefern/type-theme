@@ -164,7 +164,7 @@ Blog | How to write for them
 <a href="http://12most.com/category/lifestyle/">12 Most</a> | <a href="http://12most.com/how-to-guest-post/">Instructions</a>
 <a href="http://aggieskitchen.com/">Aggie's Kitchen</a> | <a href="http://aggieskitchen.com/contact-me/">Contact</a>
 <a href="http://foodsense.is/">Food Sense</a> | <a href="http://foodsense.is/contribute">Instructions</a>
-<a href="http://www.krystalskitsch.com">Krystal's Kitsch</a> | <a href="http://www.krystalskitsch.com/contact">Contact to Get Guidelines</a>
+<a href="http://www.krystalskitsch.com">Krystal's Kitsch</a> | <a href="http://www.krystalskitsch.com/contact">Contact for Guidelines</a>
 <a href="http://matadornetwork.com/topics/food-drink/">Matador Network</a> | <a href="http://matadornetwork.com/content/contributors-and-job-applicants/">Instructions</a>
 <a href="http://migrationology.com/">Migrationology</a> | <a href="http://migrationology.com/contact-me/">Contact</a>
 <a href="http://pinchofyum.com/">Pinch of Yum</a> | <a href="http://pinchofyum.com/contact">Contact</a>
