@@ -162,6 +162,7 @@ Blog | How to write for them
 
 Blog | How to write for them
 ------------- | -------------
+<a href="http://www.5minutesformom.com">5 Minutes for Mom</a> | <a href="http://www.5minutesformom.com/join-our-team/">Instructions</a>
 <a href="http://12most.com/category/lifestyle/">12 Most</a> | <a href="http://12most.com/how-to-guest-post/">Instructions</a>
 <a href="http://aggieskitchen.com/">Aggie's Kitchen</a> | <a href="http://aggieskitchen.com/contact-me/">Contact</a>
 <a href="http://foodsense.is/">Food Sense</a> | <a href="http://foodsense.is/contribute">Instructions</a>
