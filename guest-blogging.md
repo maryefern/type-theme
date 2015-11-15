@@ -133,6 +133,7 @@ Blog | How to write for them
 
 Blog | How to write for them
 ------------- | -------------
+<a href="http://www.5minutesformom.com">5 Minutes for Mom</a> | <a href="http://www.5minutesformom.com/join-our-team/">Instructions</a>
 <a href="http://www.almostmakesperfect.com/">Almost Makes Perfect</a> | <a href="http://www.almostmakesperfect.com/collaborate/">Instructions</a>
 <a href="http://www.apartmenttherapy.com/">Apartment Therapy</a> | <a href="http://www.apartmenttherapy.com/submissions">Instructions</a>
 <a href="http://digital-photography-school.com/">Digital Photography School</a> | <a href="http://digital-photography-school.com/write-for-digital-photography-school/">Instructions</a>
@@ -208,6 +209,7 @@ Blog | How to write for them
 
 Blog | How to write for them
 ------------- | -------------
+<a href="http://www.5minutesformom.com">5 Minutes for Mom</a> | <a href="http://www.5minutesformom.com/join-our-team/">Instructions</a>
 <a href="http://basicblogtips.com/">Basic Blog Tips</a> | <a href="http://basicblogtips.com/contact">Contact</a>
 <a href="http://beabetterblogger.com/write-for-us/">Be a Better Blogger</a> | <a href="http://beabetterblogger.com/write-for-us/">Instructions</a>
 <a href="http://www.bloggersgetsocial.com">Bloggers Get Social</a> | <a href="http://www.bloggersgetsocial.com/about-us/">Contact for Guidelines</a>
@@ -249,6 +251,7 @@ Blog | How to write for them
 
 Blog | How to write for them
 ------------- | -------------
+<a href="http://www.5minutesformom.com">5 Minutes for Mom</a> | <a href="http://www.5minutesformom.com/join-our-team/">Instructions</a>
 <a href="http://afineparent.com/">A Fine Parent</a> | <a href="http://afineparent.com/write">Instructions</a>
 <a href="http://www.bonbonbreak.com/">BonBon Break</a> | <a href="http://www.bonbonbreak.com/submissions/">Instructions</a>
 <a href="http://www.icanteachmychild.com/">I Can Teach My Child!</a> | <a href="http://www.icanteachmychild.com/guest-post-submission-guidelines/">Instructions</a>
