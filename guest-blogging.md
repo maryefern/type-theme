@@ -212,6 +212,7 @@ Blog | How to write for them
 <a href="http://www.5minutesformom.com">5 Minutes for Mom</a> | <a href="http://www.5minutesformom.com/join-our-team/">Instructions</a>
 <a href="http://basicblogtips.com/">Basic Blog Tips</a> | <a href="http://basicblogtips.com/contact">Contact</a>
 <a href="http://beabetterblogger.com/write-for-us/">Be a Better Blogger</a> | <a href="http://beabetterblogger.com/write-for-us/">Instructions</a>
+<a href="http://blogelina.com">Blogelina</a> | <a href="http://blogelina.com/2015/02/19/new-from-blogelina-paid-blogging-contributor-opportunities/">Instructions</a>
 <a href="http://www.bloggersgetsocial.com">Bloggers Get Social</a> | <a href="http://www.bloggersgetsocial.com/about-us/">Contact for Guidelines</a>
 <a href="http://contentmarketinginstitute.com/">Content Marketing Institute</a> | <a href="http://contentmarketinginstitute.com/blog/blog-guidelines/">Instructions</a>
 <a href="http://contentmarketingup.com/">Content Marketing Up</a> | <a href="http://contentmarketingup.com/writing-portfolio/submit-guest-post/">Instructions</a>
