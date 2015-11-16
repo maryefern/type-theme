@@ -6,20 +6,20 @@ hide: true
 img_preview: /img/fbadsclass-thumb.png
 ---
 
+<div class="section group" style="padding:3% 10%;">
 
-<div style="background-image:url(/img/benchfinal.jpg);background-repeat:no-repeat;background-size:cover;">
-
-
-<div class="shadow">
+<div class="col span_1_of_2">
 
 <script src="https://app.convertkit.com/assets/CKJS4.js?v=21"></script>
 
-<div class="ck_form ck_vertical_subscription_form">
+<div class="ck_form ck_vertical_subscription_form" style="color:#383838;background-color:#f7f7f7;margin-top:0px;padding:3% 5%;">
 
-<div class="ck_form_content" style="padding-top:0px;">
-<h4>Free Mini Course:</h4>
-<h3 class="no-margin-top">Facebook Ads Class</h3>
-<p>Want to learn how to use cheap Facebook Ads to grow your email list? This 6-part mini course will teach you everything you need to know to get up and running!</p>
+<div class="ck_form_content" style="text-align:left;">
+<h2>Facebook Ads Class</h2>
+<p>Want to learn exactly how I got 532 subscribers in 43 days using cheap Facebook ads?</p>
+<p>This 6-part mini course will teach you everything you need to know to grow your subscribers on autopilot (without throwing your cash in a pit)!</p>
+ <p><em>"If I were starting my blog from scratch, this is exactly the technique I'd use to get my first subscribers."</em> <strong>–Jon Morrow (Boost Blog Traffic)</strong></p>
+
 </div>
 
   <div class="ck_form_fields">
@@ -52,157 +52,11 @@ img_preview: /img/fbadsclass-thumb.png
   </div>
   
  </div>
- </div>
+
+</div>
 
 
-<style type="text/css">/* Layout */
-.shadow {
-    padding: 5% 10%;
-}
-  .ck_form {
-	overflow: hidden;
-	color: #383838;
-	clear: both;
-	margin: 0px;
-    width: 65%;
-}
-
-.ck_form * {
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;
-}
-
-#ck_subscribe_form {
-  clear: both;
-}
-
-/* Element Queries — uses JS */
-
-.ck_form_content, .ck_form_fields {
-}
-.ck_form_content {
-	padding: 5%
-}
-.ck_form_fields {
-	padding: 0 5% 5% 5%;
-}
-
-.ck_form.ck_horizontal {
-}
-
-.ck_form_content {
-	border-bottom: none;
-}
-
-.ck_form.ck_vertical {
-}
-
-.ck_vertical .ck_form_content, .ck_vertical .ck_form_fields {
-	width: 100%;
-	float: none;
-}
-
-.ck_vertical .ck_form_content {
-	overflow: hidden;
-}
-
-/* Trigger the vertical layout with media queries as well */
-
-@media all and (max-width: 900px) {
-
-.shadow {
-    padding: 0;
-}
-
-	.ck_form {
-        width: 100%;
-        background-color: #363ABD;
-        background-image: url('/img/skulls.png');
-        color: #fff;
-	}
-
-	.ck_form_content, .ck_form_fields {
-		width: 100%;
-		float: none;
-	}
-
-	.ck_form_content {
-        margin-top: 5%;
-	}
-
-}
-
-/* Content */
-
-
-.ck_image {
-	float: left;
-	margin-right: 5px;
-}
-
-/* Form fields */
-
-.ck_errorArea {
-	display: none;
-}
-
-#ck_success_msg {
-	padding: 10px 10px 0px;
-	border: solid 1px #ddd;
-	background: #eee;
-}
-
-.ck_label {
-	font-size: 14px;
-	font-weight: bold;
-}
-
-.ck_form input[type="text"], .ck_form input[type="email"] {
-	width: 100%;
-    color: #383838;
-}
-
-.ck_checkbox {
-  padding: 10px 0px 10px 20px;
-  display: block;
-  clear: both;
-}
-
-.ck_checkbox input.optIn {
-  margin-left: -20px;
-  margin-top: 0;
-}
-.ck_form .ck_opt_in_prompt {
-  margin-left: 4px;
-}
-.ck_form .ck_opt_in_prompt p {
-  display: inline;
-}
-
-.ck_form .ck_subscribe_button {
-    width: 100%;
-  }
-
-.ck_control_group, .ck_subscribe_button {
-    display: block !important;
-}
-
-.ck_subscribe_button {
-    background-color: #ecf05c !important;
-    border-color: #ecf05c !important;
-}
-.ck_subscribe_button:hover {
-    background-color: transparent !important;
-    color: #ecf05c !important;
-}
-.ck_form {
-}
-
-.ck_form_title {
-    margin-top: 0;
-}
-
-</style>
-
+<div class="col span_1_of_2">
+<img src="/img/fence.jpg">
+</div>
 </div>
