@@ -12,13 +12,12 @@ img_preview: /img/fbadsclass-thumb.png
 
 <script src="https://app.convertkit.com/assets/CKJS4.js?v=21"></script>
 
-<div class="ck_form ck_vertical_subscription_form" style="color:#383838;background-color:#f7f7f7;margin-top:0px;padding:3% 5%;">
+<div class="ck_form ck_vertical_subscription_form" style="color:#383838;background-color:none;margin-top:0px;padding:0 3%;">
 
 <div class="ck_form_content" style="text-align:left;">
 <h2>Facebook Ads Class</h2>
 <p>Want to learn exactly how I got 532 subscribers in 43 days using cheap Facebook ads?</p>
-<p>This 6-part mini course will teach you everything you need to know to grow your subscribers on autopilot (without throwing your cash in a pit)!</p>
- <p><em>"If I were starting my blog from scratch, this is exactly the technique I'd use to get my first subscribers."</em> <strong>–Jon Morrow (Boost Blog Traffic)</strong></p>
+<p>This FREE 6-part mini course will teach you everything you need to know to grow your subscribers on autopilot (without throwing your cash in a pit)!</p>
 
 </div>
 
@@ -30,7 +29,7 @@ img_preview: /img/fbadsclass-thumb.png
 
     <!--  Form starts here  -->
     <form id="ck_subscribe_form" class="ck_subscribe_form" action="https://app.convertkit.com/landing_pages/7113/subscribe" data-remote="true">
-      <input type="hidden" value="{&quot;embed_style&quot;:&quot;inline&quot;,&quot;embed_trigger&quot;:&quot;scroll_percentage&quot;,&quot;scroll_percentage&quot;:&quot;70&quot;,&quot;delay_seconds&quot;:&quot;10&quot;,&quot;display_position&quot;:&quot;br&quot;,&quot;display_devices&quot;:&quot;all&quot;,&quot;days_no_show&quot;:&quot;15&quot;,&quot;converted_behavior&quot;:&quot;show&quot;}" id="ck_form_options"></input>
+      <input type="hidden" value="{&quot;embed_style&quot;:&quot;inline&quot;,&quot;embed_trigger&quot;:&quot;scroll_percentage&quot;,&quot;scroll_percentage&quot;:&quot;70&quot;,&quot;delay_seconds&quot;:&quot;10&quot;,&quot;display_position&quot;:&quot;br&quot;,&quot;display_devices&quot;:&quot;all&quot;,&quot;days_no_show&quot;:&quot;15&quot;,&quot;converted_behavior&quot;:&quot;show&quot;}" id="ck_form_options" ></input>
       <input type="hidden" name="id" value="7113" id="landing_page_id"></input>
       <div class="ck_errorArea">
         <div id="ck_error_msg" style="display:none">
@@ -52,6 +51,10 @@ img_preview: /img/fbadsclass-thumb.png
   </div>
   
  </div>
+ 
+ <div class="gray-box">
+  <h5><img src="http://gravatar.com/avatar/cab23f18a3c2a9cc94b325846ff3fef3?d=identicon" class="avatar" style="margin-top:4px;"><em>"If I were starting my blog from scratch, this is exactly the technique I'd use to get my first subscribers."</em> –Jon Morrow (Boost Blog Traffic)</h5>
+  </div>
 
 </div>
 
@@ -60,3 +63,13 @@ img_preview: /img/fbadsclass-thumb.png
 <img src="/img/fence.jpg">
 </div>
 </div>
+
+<style>
+.ck_control_group, .ck_subscribe_button {
+    display: block;
+}
+.ck_subscribe_button {
+margin: 10px auto 0 auto !important;
+width: 100%;
+}
+</style>
