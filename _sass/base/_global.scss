@@ -450,6 +450,10 @@ a .fa:hover {
 
 // Buttons
 
+button {
+    font-weight: 700;
+    text-transform: uppercase;
+}
 .button {
     -webkit-transition: all 0.3s;
     -o-transition: all 0.3s;
