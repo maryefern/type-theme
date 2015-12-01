@@ -6,18 +6,21 @@ hide: true
 img_preview: /img/fbadsclass-thumb.png
 ---
 
-<div class="section group" style="padding:3% 10%;">
+<div style="padding:5% 15%;background-color:#f7f7f7;text-align:center;">
+<h4>FREE MINI COURSE:</h4>
+<h2>Your First 500 Subscribers in 50 Days<br>With $5 Per Day Facebook Ads</h2>
 
-<div class="col span_1_of_2">
+<div class="section group">
+
+<div class="col span_1_of_2" style="padding:0 3% 0 0;">
 
 <script src="https://app.convertkit.com/assets/CKJS4.js?v=21"></script>
 
-<div class="ck_form ck_vertical_subscription_form" style="color:#383838;background-color:none;margin-top:0px;padding:0 3%;">
+<div class="ck_form ck_vertical_subscription_form" style="color:#383838;background-color:none;margin-top:0px;">
 
 <div class="ck_form_content" style="text-align:left;">
-<h2>Facebook Ads Class</h2>
-<p>Want to learn exactly how I got 532 subscribers in 43 days using cheap Facebook ads?</p>
-<p>This FREE 6-part mini course will teach you everything you need to know to grow your subscribers on autopilot (without throwing your cash in a pit)!</p>
+
+<p>Want to learn how to use Facebook ads to grow your email list on autopilot (without throwing your cash in a pit)?</p>
 
 </div>
 
@@ -44,16 +47,20 @@ img_preview: /img/fbadsclass-thumb.png
       </div>
 
       <button class="subscribe_button ck_subscribe_button btn fields" id='ck_subscribe_button'>
-        Yes, sign me up!
+        Yes, show me how!
       </button>
       <span class="ck_guarantee">I won&#x27;t send you spam. Unsubscribe at any time.</span>
     </form>
   </div>
   
  </div>
- 
- <div class="gray-box">
-  <h5><img src="http://gravatar.com/avatar/cab23f18a3c2a9cc94b325846ff3fef3?d=identicon" class="avatar" style="margin-top:4px;"><em>"If I were starting my blog from scratch, this is exactly the technique I'd use to get my first subscribers."</em> –Jon Morrow (Boost Blog Traffic)</h5>
+  
+   <div class="white-box">
+  <h5><img src="http://1.gravatar.com/avatar/d797304cb3270594ae43974d30a5b406?s=96&d=mm&r=g" class="avatar" style="margin-top:4px;"><em>"By following your recommendations, I went from 90 to more than 1,000 subscribers to my blog in approx. 3 months."</em> –Ángel Candelaria (AngelCandelaria.com)</h5>
+  </div>
+  
+   <div class="white-box">
+  <h5><img src="http://gravatar.com/avatar/cab23f18a3c2a9cc94b325846ff3fef3?d=identicon" class="avatar" style="margin-top:4px;"><em>"If I were starting my blog from scratch, this is exactly the technique I'd use to get my first subscribers."</em> –Jon Morrow (BoostBlogTraffic.com)</h5>
   </div>
 
 </div>
@@ -64,6 +71,9 @@ img_preview: /img/fbadsclass-thumb.png
 </div>
 </div>
 
+</div>
+
+
 <style>
 .ck_control_group, .ck_subscribe_button {
     display: block;
@@ -71,5 +81,17 @@ img_preview: /img/fbadsclass-thumb.png
 .ck_subscribe_button {
 margin: 10px auto 0 auto !important;
 width: 100%;
+background-color: #cd0400 !important;
+border-color: #cd0400 !important;
+color: #fff !important;
+}
+.ck_subscribe_button:hover {
+color: #cd0400 !important;
+border-color: #cd0400;
+background-color: transparent !important;
+-webkit-transform: none !important;
+    -ms-transform: none !important;
+    -o-transform: none !important;
+    transform: none !important;
 }
 </style>
