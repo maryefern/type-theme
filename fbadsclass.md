@@ -10,7 +10,7 @@ img_preview: /img/fbadsclass-thumb.png
 <h4>FREE MINI COURSE:</h4>
 <h2>Your First 500 Subscribers in 50 Days<br>With $5 Per Day Facebook Ads</h2>
 
-<div class="section group">
+<div class="section group" style="max-width:1180px;margin-left:auto;margin-right:auto;">
 
 <div class="col span_1_of_2" style="padding:0 3% 0 0;">
 
