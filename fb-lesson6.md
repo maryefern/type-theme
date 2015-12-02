@@ -47,6 +47,7 @@ noindex: true
 <hr>
 
 <h3>Video Tutorial: How to Use Facebook's Power Editor to Set Up and Run Your Ads</h3>
+<p>(Note: This video was originally filmed for <a href="http://boostblogtraffic.com/">Boost Blog Traffic</a> readers who read my <a href="http://boostblogtraffic.com/facebook-ads/">guest post on FB ads here</a>.)</p>
 <div class="vid-wrapper">
 <iframe src="https://player.vimeo.com/video/136227942" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
