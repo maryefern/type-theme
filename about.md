@@ -6,7 +6,17 @@ hide: true
 noindex: true
 ---
 
-<img src="/img/photoshoot-left.jpg">
+<div class="h-text">
+
+<div class="home-mary">
+<img src="/img/hortonplaza.jpg" style="-webkit-clip-path: polygon(7% 51%, 0 12%, 20% 0, 46% 4%, 62% 44%, 79% 6%, 100% 32%, 92% 87%, 62% 71%, 34% 100%, 10% 89%, 0 96%);
+clip-path: polygon(7% 51%, 0 12%, 20% 0, 46% 4%, 62% 44%, 79% 6%, 100% 32%, 92% 87%, 62% 71%, 34% 100%, 10% 89%, 0 96%);">
+    <div class="bubble-left"><h4>Hi! My name is Mary, and I'm a blogoholic.</h4><p>Whether you're completely new to blogging or you've been at this for a while, I'll show you how to hack the process of growing your audience online!</p>
+    </div>
+</div>
+
+
+</div>
 
 Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
 
