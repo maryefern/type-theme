@@ -1,26 +1,30 @@
 ---
 layout: landing
 title: Facebook Ads Class
-permalink: /fbadsclass-orig/
+permalink: /fbadsclass/
 hide: true
 img_preview: /img/fbadsclass-thumb.png
 ---
 
-<div style="padding:5% 15%;background-color:#f7f7f7;text-align:center;">
+<article style="text-align:center;border-bottom:none;background:#f7f7f7;">
 <h4>FREE MINI COURSE:</h4>
-<h2>Get Your First 500 Subscribers in 50 Days<br>With Cheap Facebook Ads</h2>
+<h2>Get Your First 500 Subscribers in 50 Days Using Cheap Facebook Ads</h2>
 
-<div class="section group" style="max-width:1180px;margin-left:auto;margin-right:auto;">
+<div class="section group">
 
-<div class="col span_1_of_2" style="padding:0 3% 0 0;">
+<div class="col span_1_of_2">
+<img src="/img/fbadsclass-thumb.png">
+</div>
+
+<div class="col span_1_of_2">
 
 <script src="https://app.convertkit.com/assets/CKJS4.js?v=21"></script>
 
 <div class="ck_form ck_vertical_subscription_form" style="color:#383838;background-color:none;margin-top:0px;">
 
-<div class="ck_form_content" style="text-align:left;">
+<div class="ck_form_content">
 
-<p>Want my fill-in-the-blank strategy for growing your email list on autopilot (without throwing your cash in a pit)?</p>
+<p style="text-align:left;">Want my fill-in-the-blank strategy for growing your email list on autopilot, for the price of a Starbucks Frappuccino ($5) per day?</p>
 
 </div>
 
@@ -45,58 +49,61 @@ img_preview: /img/fbadsclass-thumb.png
       <div class="ck_control_group ck_email_field_group">
           <input type="email" name="email" class="ck_email_address" id="ck_emailField" required placeholder="Email Address"></input>
       </div>
-
+<div class="ck_control_group">
       <button class="subscribe_button ck_subscribe_button btn fields" id='ck_subscribe_button'>
         Yes, send me the mini course!
       </button>
+      </div>
       <span class="ck_guarantee">I won&#x27;t send you spam. Unsubscribe at any time.</span>
     </form>
   </div>
   
  </div>
  
+
+</div>
+
+</div>
+
  <div class="section group">
  
  <div class="col span_1_of_2">
   
-   <div class="white-box">
+   <div class="green-border-box">
    <h5><img src="http://1.gravatar.com/avatar/d797304cb3270594ae43974d30a5b406?s=96&d=mm&r=g" class="avatar" style="margin-top:4px;"><em>"By following your recommendations, I went from 90 to more than 1,000 subscribers to my blog in approx. 3 months."</em></h5><p style="text-align:right;" class="small">Ángel Candelaria<br>AngelCandelaria.com</p>
   </div>
   
   </div>
   
    <div class="col span_1_of_2">
-   <div class="white-box">
+   <div class="green-border-box">
    <h5><img src="http://gravatar.com/avatar/cab23f18a3c2a9cc94b325846ff3fef3?d=identicon" class="avatar" style="margin-top:4px;"><em>"If I were starting my blog from scratch, this is exactly the technique I'd use to get my first subscribers."</em></h5><p style="text-align:right;" class="small">Jon Morrow<br>BoostBlogTraffic.com</p>
   </div>
   </div>
   
 </div>
 
-</div>
+<div style="height:100px;"></div>
 
+</article>
 
-<div class="col span_1_of_2">
-<img src="/img/fence.jpg">
-</div>
-</div>
-
-</div>
 
 
 <style>
+
 .ck_control_group, .ck_subscribe_button {
     display: block;
 }
 .ck_subscribe_button {
 margin: 10px auto 0 auto !important;
 width: 100%;
-background-color: #b8fe83 !important;
-border-color: #b8fe83 !important;
+background-color: #363ABD !important;
+border-color: #363ABD !important;
+color: #fff !important;
 }
 .ck_subscribe_button:hover {
-color: #383838 !important;
-border-color: #383838 !important;
+color: #363ABD !important;
+border-color: #363ABD !important;
 background-color: transparent !important;
 -webkit-transform: none !important;
     -ms-transform: none !important;

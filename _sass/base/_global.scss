@@ -151,11 +151,21 @@ p.gray-back {
     cursor: pointer;
 }
 
-.blue-box {
-    background: #01e7e0;
-    padding: 3% 5% 1% 5%;
+.green-border-box {
+    border: 3px solid #b8fe83;
+    padding: 3% 5%;
     margin-bottom: 1em;
-        color: #383838;
+    color: #383838;
+    text-align: left;
+    background:#fff;
+}
+
+.yellow-border-box {
+    border: 3px solid #ecf05c;
+    padding: 3% 5%;
+    margin-bottom: 1em;
+    color: #383838;
+    text-align: left;
 }
 
 .green-box {
