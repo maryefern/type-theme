@@ -83,7 +83,7 @@ img_preview: /img/fbadsclass-thumb.png
   
 </div>
 
-<div style="height:100px;"></div>
+<div style="height:400px;"></div>
 
 </article>
 
