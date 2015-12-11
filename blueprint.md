@@ -7,20 +7,16 @@ img_preview: /img/bluewall.jpg
 ---
 
 
-<div style="background-image:url(/img/bluewall.jpg);background-repeat:no-repeat;background-size:cover;">
+<article style="border-bottom:none;text-align:center;background:#f7f7f7;">
+<h4>FREE INTERACTIVE MINDMAP</h4>
+<h2>The Blog Growth Blueprint: A step-by-step checklist for growing a popular blog, from scratch.</h2>
 
+<div class="section group">
 
-<div class="shadow">
-
+<div class="col span_1_of_2">
 <script src="https://app.convertkit.com/assets/CKJS4.js?v=21"></script>
 
 <div class="ck_form ck_vertical_subscription_form">
-
-<div class="ck_form_content" style="padding-top:0px;">
-<h4>Free Step-by-Step Guide:</h4>
-<h3 class="no-margin-top">The Blog Growth Blueprint</h3>
-<p>Want to know how to grow a popular blog from scratch? This 4-step blueprint shows you the exact system I am using to grow my own blog audience, before hitting "publish" on a single blog post!</p>
-</div>
 
   <div class="ck_form_fields">
 
@@ -47,161 +43,49 @@ img_preview: /img/bluewall.jpg
       <button class="subscribe_button ck_subscribe_button btn fields" id='ck_subscribe_button'>
         Send me the blueprint!
       </button>
-      <span class="ck_guarantee">I won&#x27;t send you spam. Unsubscribe at any time.</span>
+      <span class="ck_guarantee" style="color:#383838;">I won&#x27;t send you spam. Unsubscribe at any time.</span>
     </form>
   </div>
   
  </div>
+ 
  </div>
+ 
+ 
+ <div class="col span_1_of_2"><img src="/img/bloggrowthmock2.png"></div>
+ 
+ </div>
+ 
+<hr>
+ 
+<div class="logos">
+<img src="/img/featlogos2.png" style="">
+</div>
+ 
+ <div style="height:300px;"></div>
+ 
+ </article>
 
 
-<style type="text/css">/* Layout */
-.shadow {
-    padding: 5% 10%;
-}
-  .ck_form {
-	overflow: hidden;
-	color: #ffffff;
-	clear: both;
-	margin: 0px;
-    width: 75%;
-}
-
-.ck_form * {
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;
-}
-
-#ck_subscribe_form {
-  clear: both;
-}
-
-/* Element Queries — uses JS */
-
-.ck_form_content, .ck_form_fields {
-}
-.ck_form_content {
-	padding: 5%
-}
-.ck_form_fields {
-	padding: 0 5% 5% 5%;
-}
-
-.ck_form.ck_horizontal {
-}
-
-.ck_form_content {
-	border-bottom: none;
-}
-
-.ck_form.ck_vertical {
-}
-
-.ck_vertical .ck_form_content, .ck_vertical .ck_form_fields {
-	width: 100%;
-	float: none;
-}
-
-.ck_vertical .ck_form_content {
-	overflow: hidden;
-}
-
-/* Trigger the vertical layout with media queries as well */
-
-@media all and (max-width: 900px) {
-
-.shadow {
-    padding: 0;
-}
-
-	.ck_form {
-        width: 100%;
-        background-color: #363ABD;
-        background-image: url('/img/skulls.png');
-	}
-
-	.ck_form_content, .ck_form_fields {
-		width: 100%;
-		float: none;
-	}
-
-	.ck_form_content {
-        margin-top: 5%;
-	}
-
-}
-
-/* Content */
-
-
-.ck_image {
-	float: left;
-	margin-right: 5px;
-}
-
-/* Form fields */
-
-.ck_errorArea {
-	display: none;
-}
-
-#ck_success_msg {
-	padding: 10px 10px 0px;
-	border: solid 1px #ddd;
-	background: #eee;
-}
-
-.ck_label {
-	font-size: 14px;
-	font-weight: bold;
-}
-
-.ck_form input[type="text"], .ck_form input[type="email"] {
-	width: 100%;
-    color: #383838;
-}
-
-.ck_checkbox {
-  padding: 10px 0px 10px 20px;
-  display: block;
-  clear: both;
-}
-
-.ck_checkbox input.optIn {
-  margin-left: -20px;
-  margin-top: 0;
-}
-.ck_form .ck_opt_in_prompt {
-  margin-left: 4px;
-}
-.ck_form .ck_opt_in_prompt p {
-  display: inline;
-}
-
-.ck_form .ck_subscribe_button {
-    width: 100%;
-  }
+<style>
 
 .ck_control_group, .ck_subscribe_button {
-    display: block !important;
+    display: block;
 }
-
 .ck_subscribe_button {
-    background-color: #ecf05c !important;
-    border-color: #ecf05c !important;
+margin: 10px auto 0 auto !important;
+width: 100%;
+background-color: #363ABD !important;
+border-color: #363ABD !important;
+color: #fff !important;
 }
 .ck_subscribe_button:hover {
-    background-color: transparent !important;
-    color: #ecf05c !important;
+color: #363ABD !important;
+border-color: #363ABD !important;
+background-color: transparent !important;
+-webkit-transform: none !important;
+    -ms-transform: none !important;
+    -o-transform: none !important;
+    transform: none !important;
 }
-.ck_form {
-}
-
-.ck_form_title {
-    margin-top: 0;
-}
-
 </style>
-
-</div>
