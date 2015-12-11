@@ -62,7 +62,7 @@ img_preview: /img/bluewall.jpg
 <img src="/img/featlogos2.png" style="">
 </div>
  
- <div style="height:300px;"></div>
+ <div style="height:500px;"></div>
  
  </article>
 
