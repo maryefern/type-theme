@@ -8,7 +8,7 @@ img_preview: /img/fbadsclass-thumb.png
 
 <article style="text-align:center;border-bottom:none;background:#f7f7f7;">
 <h4>FREE MINI COURSE:</h4>
-<h2>Get Your First 500 Subscribers in 50 Days Using Cheap Facebook Ads</h2>
+<h2>Grow Your Email List on Autopilot with Cheap Facebook Ads</h2>
 
 <div class="section group">
 
@@ -22,9 +22,9 @@ img_preview: /img/fbadsclass-thumb.png
 
 <div class="ck_form ck_vertical_subscription_form" style="color:#383838;background-color:none;margin-top:0px;">
 
-<div class="ck_form_content">
+<div class="ck_form_content" style="text-align:left;">
 
-<p style="text-align:left;">Want my fill-in-the-blank strategy for growing your email list on autopilot, for the price of a Starbucks Frappuccino ($5) per day?</p>
+<p>Want my fill-in-the-blank strategy for growing your email list with Facebook ads?</p><p>(It only costs 5 bucks per day to set them up... that's the price of 1 Starbucks Frappuccino!)</p>
 
 </div>
 
@@ -64,6 +64,14 @@ img_preview: /img/fbadsclass-thumb.png
 </div>
 
 </div>
+
+<hr>
+
+<div class="logos">
+<img src="/img/featlogos2.png" style="">
+</div>
+
+<hr>
 
  <div class="section group">
  
