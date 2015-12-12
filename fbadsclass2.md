@@ -24,7 +24,7 @@ img_preview: /img/fbadsclass-thumb.png
 
 <div class="ck_form_content" style="text-align:left;">
 
-<p>Catch a snooze while you build your list with $5/day Facebook ads. That's the price of 1 Frappuccino! (This mini course, however, is free.)</p>
+<p>Catch a snooze while you build your list with $5/day Facebook ads. That's the price of 1 Frappuccino!</p><p>(This mini course, however, is free.)</p>
 
 </div>
 
