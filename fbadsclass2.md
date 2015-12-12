@@ -24,7 +24,7 @@ img_preview: /img/fbadsclass-thumb.png
 
 <div class="ck_form_content" style="text-align:left;">
 
-<p>Want my fill-in-the-blank strategy for growing your email list with Facebook ads?</p><p>(It only costs 5 bucks per day to set them up... that's the price of 1 Starbucks Frappuccino!)</p>
+<p>Catch a snooze while you build your list with $5/day Facebook ads. That's the price of 1 Frappuccino! (This mini course, however, is free.)</p>
 
 </div>
 
@@ -51,7 +51,7 @@ img_preview: /img/fbadsclass-thumb.png
       </div>
 <div class="ck_control_group">
       <button class="subscribe_button ck_subscribe_button btn fields" id='ck_subscribe_button'>
-        Yes, send me the mini course!
+        Send me the mini course!
       </button>
       </div>
       <span class="ck_guarantee">I won&#x27;t send you spam. Unsubscribe at any time.</span>
