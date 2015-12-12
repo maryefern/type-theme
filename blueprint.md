@@ -8,8 +8,8 @@ img_preview: /img/bloggrowthmock2.png
 
 
 <article style="border-bottom:none;text-align:center;background:#f7f7f7;">
-<h4>FREE INTERACTIVE MINDMAP</h4>
-<h2>The Blog Growth Blueprint: A step-by-step checklist for growing a popular blog, from scratch.</h2>
+<h4>FREE BLUEPRINT:</h4>
+<h2>Everything you need to know to grow a popular blog from scratch, step-by-step.</h2>
 
 <div class="section group">
 
@@ -59,6 +59,7 @@ img_preview: /img/bloggrowthmock2.png
 <hr>
  
 <div class="logos">
+<p>As seen in...</p>
 <img src="/img/featlogos2.png" style="">
 </div>
  
