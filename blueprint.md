@@ -3,7 +3,7 @@ layout: landing
 title: The Blog Growth Blueprint (2015 edition)
 permalink: /blueprint/
 hide: true
-img_preview: /img/bloggrowthmock2.png
+img_preview: /img/bloggrowth-thumb.png
 ---
 
 
