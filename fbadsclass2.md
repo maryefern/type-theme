@@ -71,7 +71,7 @@ img_preview: /img/fbadsclass-thumb.png
 <img src="/img/featlogos2.png" style="">
 </div>
 
-<hr>
+&nbsp;
 
  <div class="section group">
  
