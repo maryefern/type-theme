@@ -7,13 +7,10 @@ img_preview: /img/bloggrowth-thumb.png
 ---
 
 
-<article style="border-bottom:none;text-align:center;background:#f7f7f7;">
+<article>
 <h4>FREE BLUEPRINT:</h4>
 <h2>Everything you need to know to grow a popular blog from scratch, step-by-step.</h2>
 
-<div class="section group">
-
-<div class="col span_1_of_2">
 <script src="https://app.convertkit.com/assets/CKJS4.js?v=21"></script>
 
 <div class="ck_form ck_vertical_subscription_form">
@@ -33,15 +30,12 @@ img_preview: /img/bloggrowth-thumb.png
           <p>There was an error submitting your subscription. Please try again.</p>
         </div>
       </div>
-      <div class="ck_control_group ck_first_name_field_group">
-        <input type="text" name="first_name" class="ck_first_name" id="ck_firstNameField" required placeholder="First Name"></input>
-      </div>
       <div class="ck_control_group ck_email_field_group">
           <input type="email" name="email" class="ck_email_address" id="ck_emailField" required placeholder="Email Address"></input>
       </div>
 
       <button class="subscribe_button ck_subscribe_button btn fields" id='ck_subscribe_button'>
-        Send me the blueprint!
+        Send me my blueprint!
       </button>
       <span class="ck_guarantee" style="color:#383838;">I won&#x27;t send you spam. Unsubscribe at any time.</span>
     </form>
@@ -49,44 +43,37 @@ img_preview: /img/bloggrowth-thumb.png
   
  </div>
  
- </div>
- 
- 
- <div class="col span_1_of_2"><img src="/img/bloggrowthmock2.png"></div>
- 
- </div>
- 
 <hr>
+
+<img src="/img/featlogos2.png" style="opacity: 0.5;width:75%;">
  
-<div class="logos">
-<p>As seen in...</p>
-<img src="/img/featlogos2.png" style="">
-</div>
- 
- <div style="height:500px;"></div>
+ <div style="height:900px;"></div>
  
  </article>
 
 
 <style>
-
+article {
+border-bottom:none;
+text-align:center;
+background: url('/img/kickup.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 .ck_control_group, .ck_subscribe_button {
-    display: block;
+    display: inline-block;
 }
 .ck_subscribe_button {
 margin: 10px auto 0 auto !important;
-width: 100%;
-background-color: #363ABD !important;
-border-color: #363ABD !important;
-color: #fff !important;
+background-color: #b8fe83 !important;
+border-color: #b8fe83 !important;
+color: #383838 !important;
 }
 .ck_subscribe_button:hover {
-color: #363ABD !important;
-border-color: #363ABD !important;
+color: #383838 !important;
+border-color: #383838 !important;
 background-color: transparent !important;
--webkit-transform: none !important;
-    -ms-transform: none !important;
-    -o-transform: none !important;
-    transform: none !important;
 }
 </style>

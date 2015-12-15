@@ -6,20 +6,43 @@ hide: true
 noindex: true
 ---
 
-<div class="h-text">
+<div class="group section">
 
-<div class="home-mary">
-<img src="/img/hortonplaza.jpg" style="-webkit-clip-path: polygon(7% 51%, 0 12%, 20% 0, 46% 4%, 62% 44%, 79% 6%, 100% 32%, 92% 87%, 62% 71%, 34% 100%, 10% 89%, 0 96%);
-clip-path: polygon(7% 51%, 0 12%, 20% 0, 46% 4%, 62% 44%, 79% 6%, 100% 32%, 92% 87%, 62% 71%, 34% 100%, 10% 89%, 0 96%);">
-    <div class="bubble-left"><h4>Hi! My name is Mary, and I'm a blogoholic.</h4><p>Whether you're completely new to blogging or you've been at this for a while, I'll show you how to hack the process of growing your audience online!</p>
-    </div>
+<div class="col span_1_of_2">
+<img src="/img/photoshoot-vert.jpg">
+</div>
+
+<div class="col span_1_of_2">
+
+<div class="bubble-left">
+<h3>Hi! I'm Mary Fernandez.</h3><h4>I'm a Blogging & Visibility Strategist. I help experts, entrepreneurs and freelancers to grow their online presence.</h4>
+</div>
+
+</div>
+
+</div>
+
+<h3>If you want to...</h3>
+<ul style="list-style-type:none;">
+<li>Become known as an expert in your industry...</li>
+<li>Get more leads for your business...</li>
+<li>Grow your audience so that you can land speaking gigs, or write a book...</li>
+</ul>
+<h3>I can help with that.</h3>
+
+<h3>Here are my top 2 strategies:</h3>
+
+<div class="section group">
+
+<div class="col span_1_of_2">
+<h2>Guest Blogging</h2>
 </div>
 
 
+<div class="col span_1_of_2">
+<h2>Facebook Ads</h2>
 </div>
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+</div>
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+<img src="/img/fence.jpg">

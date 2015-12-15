@@ -151,11 +151,17 @@ p.gray-back {
     cursor: pointer;
 }
 
+.gray-border-box {
+    border: 2px solid #ddd;
+    padding: 3% 5%;
+    margin-bottom: 1em;
+    text-align: left;
+}
+
 .green-border-box {
     border: 2px solid #b8fe83;
     padding: 3% 5%;
     margin-bottom: 1em;
-    color: #383838;
     text-align: left;
 }
 
@@ -163,7 +169,6 @@ p.gray-back {
     border: 3px solid #ecf05c;
     padding: 3% 5%;
     margin-bottom: 1em;
-    color: #383838;
     text-align: left;
 }
 
@@ -528,8 +533,8 @@ background-color: #ecf05c;
 -webkit-border-radius: 10px;
 -moz-border-radius: 10px;
 border-radius: 10px;
-    text-align: center;
-    color: #383838;
+text-align: center;
+color: #383838;
 }
 
 .bubble-left:after 
@@ -581,6 +586,52 @@ top: 50%;
     top: -16px;
     left: 50%;
 }
+}
+
+
+.bubble-right 
+{
+position: relative;
+width: auto;
+height: auto;
+@extend %padding-small;
+background: #F7f7f7;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: #ecf05c solid 1px;
+text-align: center;
+color: #383838;
+}
+
+.bubble-right:after 
+{
+content: '';
+position: absolute;
+border-style: solid;
+border-width: 15px 0 15px 15px;
+border-color: transparent #F7f7f7;
+display: block;
+width: 0;
+z-index: 1;
+margin-top: -15px;
+right: -15px;
+top: 50%;
+}
+
+.bubble-right:before 
+{
+content: '';
+position: absolute;
+border-style: solid;
+border-width: 15px 0 15px 15px;
+border-color: transparent #ecf05c;
+display: block;
+width: 0;
+z-index: 0;
+margin-top: -15px;
+right: -16px;
+top: 50%;
 }
 
 // Circular Image
