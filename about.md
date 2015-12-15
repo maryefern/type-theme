@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 noindex: true
-
+hide: true
 ---
 
 <div class="group section">

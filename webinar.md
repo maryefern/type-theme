@@ -2,6 +2,7 @@
 layout: landing
 title: Live Webinar
 permalink: /webinar/
+hide: true
 ---
 
 <div class="home">
