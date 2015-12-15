@@ -47,7 +47,7 @@ img_preview: /img/bloggrowth-thumb.png
 
 <img src="/img/featlogos2.png" style="opacity: 0.5;width:75%;">
  
- <div style="height:900px;"></div>
+ <div class="space"></div>
  
  </article>
 
@@ -75,5 +75,12 @@ color: #383838 !important;
 color: #383838 !important;
 border-color: #383838 !important;
 background-color: transparent !important;
+}
+@media only screen and (max-width: 480px) {
+    article {
+        font-size: 0.8em;
+        padding: 3% 5%;
+        background: #f7f7f7;
+    }
 }
 </style>

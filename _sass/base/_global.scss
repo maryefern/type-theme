@@ -31,6 +31,16 @@ p a:hover {
     }
 }
 
+.space {
+    height: 900px;
+}
+
+@media only screen and (max-width: 480px) {
+    .space {
+    height: 200px;
+    }
+}
+
   .avatar {
     height: 2em;
     width: 2em;

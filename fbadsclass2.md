@@ -7,8 +7,8 @@ img_preview: /img/fbadsclass-thumb.png
 ---
 
 <div class="fb-landing">
-
-<h1>Want 500 new subscribers while you bask in the sun?</h1>
+<h3>FREE FACEBOOK ADS TRAINING:</h3>
+<h1>Discover how to get the subscribers rollin' in... while you laze around all day.</h1>
 
 <script src="https://app.convertkit.com/assets/CKJS4.js?v=21"></script>
 
@@ -16,7 +16,7 @@ img_preview: /img/fbadsclass-thumb.png
 
 <div class="ck_form_content">
 
-<p>Take my FREE MINI COURSE to discover how to grow your email list on autopilot using cheap Facebook ads.</p>
+<p>Take my FREE MINI COURSE to start growing your email list on autopilot with cheap Facebook ads.</p>
 
 </div>
 
@@ -40,7 +40,7 @@ img_preview: /img/fbadsclass-thumb.png
       </div>
 <div class="ck_control_group">
       <button class="subscribe_button ck_subscribe_button btn fields" id='ck_subscribe_button'>
-        Send me the free course!
+        Send me the mini course!
       </button>
       </div>
       <span class="ck_guarantee">I won&#x27;t send you spam. Unsubscribe at any time.</span>
@@ -70,7 +70,7 @@ img_preview: /img/fbadsclass-thumb.png
 </div>
 
 
-<div style="height:500px;"></div>
+<div class="space"></div>
 
 
 </div>
@@ -95,6 +95,20 @@ background: url('/img/shadesdude.jpg') no-repeat center center fixed;
 }
 .ck_control_group, .ck_subscribe_button {
     display: inline-block;
+}
+@media only screen and (max-width: 480px) {
+    .fb-landing {
+        font-size: 0.8em;
+        padding: 3% 5%;
+        background: #f7f7f7;
+        color: #383838 !important;
+    }
+    .ck_form_content {
+    color: #383838 !important;
+    }
+    .space {
+    display: none;
+    }
 }
 
 </style>
