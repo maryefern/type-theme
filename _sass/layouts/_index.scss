@@ -41,12 +41,13 @@ li.no-padding {
     display: inline-block;
     width: 100%;
     background-color: #363ABD;
-    background-image: url("/img/skulls.png");
-    position: relative;
+    background: url("/img/glasses.jpg") no-repeat center top; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
     color: #fff;
-    padding: 3% 20%;
-    border-bottom: 1px solid rgba(0,0,0,0.1);
-    border-top: 1px solid rgba(0,0,0,0.1);
+    padding: 10% 10% 40%;
 }
 
 .hero h1 {

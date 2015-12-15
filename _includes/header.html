@@ -18,8 +18,11 @@
 			{% for page in site.pages %}
 			{% if page.title and page.hide != true %}
 			<li class="no-padding">
-				<a class="page-link cta hvr-buzz-out" href="{{ page.url | prepend: site.baseurl }}">
+				<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
 					{{ page.title }}
+				</a>
+                <a class="page-link cta hvr-buzz-out" href="/community/" style="margin-left: 30px;">
+					Find Friends
 				</a>
 			</li>
 			{% endif %}

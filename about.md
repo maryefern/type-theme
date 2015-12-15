@@ -2,8 +2,8 @@
 layout: page
 title: About
 permalink: /about/
-hide: true
 noindex: true
+hide: true
 ---
 
 <div class="group section">

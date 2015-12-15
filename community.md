@@ -2,6 +2,7 @@
 layout: landing
 title: Find Friends
 permalink: /community/
+hide: true
 ---
 
 <div class="container-fluid">

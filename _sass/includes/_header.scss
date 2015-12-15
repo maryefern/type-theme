@@ -103,3 +103,16 @@
     float: left;
 }
 
+
+@media only screen and (max-width: 480px) {
+        .site-header {
+            display: none !important;
+        }
+    }
+
+@media (max-width: 1000px) {
+        .hero-below {
+        padding: 3% 12.5%;
+    }
+}
+

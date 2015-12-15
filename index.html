@@ -30,14 +30,11 @@ layout: default
           <p>There was an error submitting your subscription. Please try again.</p>
         </div>
       </div>
-      <div class="ck_control_group ck_first_name_field_group">
-        <input type="text" name="first_name" class="ck_first_name" id="ck_firstNameField" placeholder="First Name" required></input>
-      </div>
       <div class="ck_control_group ck_email_field_group">
           <input type="email" name="email" class="ck_email_address" id="ck_emailField" required placeholder="Email Address"></input>
       </div>
       <div class="clear inline"></div>
-      <button class="subscribe_button ck_subscribe_button btn fields" id='ck_subscribe_button' style="font-weight:bold;">
+      <button class="subscribe_button ck_subscribe_button btn fields " id='ck_subscribe_button' style="font-weight:bold;">
         YES, PLEASE!
       </button>
     <span class="ck_guarantee">I won&#x27;t send you spam. Unsubscribe at any time.</span>
@@ -49,6 +46,7 @@ layout: default
 
 <div class="hero-below">
     <div class="logos">
+        <h4 style="margin-bottom:20px;color:#C7C7C7;">AS SEEN IN:</h4>
 <img src="/img/featlogos2.png" style="">
 
 </div>
@@ -58,9 +56,9 @@ layout: default
 <div class="h-text">
     <div class="section group">
         <div class="col span_1_of_2">
-            <h3>Build a Popular Blog from Scratch</h3>
+            <h3 style="margin-top:0;">Build a Popular Blog from Scratch</h3>
             <p>Overwhelmed by the smorgasbord of tactics, and not sure what you should <em>really</em> be focusing on to grow your blog?</p>
-            <p>Get your blog's growth back on track–or launch a brand new blog–using this 4-phase blueprint.</p>
+            <p>Get your blog's growth back on track using this 4-step blueprint.</p>
             <a href="/blueprint/" class="button">Snatch my FREE blueprint</a></div>
         <div class="col span_1_of_2"><a href="/blueprint/"><img src="/img/bloggrowth-thumb.png"></a></div>
     </div>
@@ -71,22 +69,23 @@ layout: default
     <div class="section group">
         <div class="col span_1_of_2"><a href="/fbadsclass/"><img src="/img/fbadsclass-thumb.png"></a></div>
                 <div class="col span_1_of_2">
-            <h3 style="margin-top:0px;">Grow Your Email List on Autopilot with Facebook Ads</h3>
-            <p>In this free mini course, you'll discover how to...</p>
-                    <ul><li>Spend only $5 per day (the cost of a Frappuccino!) and get your first 500 subscribers in 2 months or less.</li><li>Create ad images that convert.</li><li>Write persuasive ad copy.</li><li>Navigate the Power Editor.</li><li>Use pixels to track conversions.</li></ul></p>
+            <h3 style="margin-top:0px;">Grow Your Audience on Autopilot</h3>
+            <p>Leverage the power of Facebook ads to grow your email list. In this free mini course, you'll discover how to...</p>
+                    <ul><li>Get 500 subscribers in 2 months or less, spending only $5 per day</li><li>Create ad images that convert</li><li>Write persuasive ad copy</li><li>Use the Power Editor and "pixels" to track conversions</li></ul></p>
             <a href="/fbadsclass/" class="button">Send me the FREE mini course</a></div>
     </div>
 </div>
 
 
-<div class="h-text-1"><div class="backgroundclip"><h3>Reader Reactions...</h3></div></div>
 <div class="h-text-2">
+    
+    <h2>Reader Reactions...</h2>
 
     <div class="section group">
         <div class="col span_1_of_4">
         <p><em>"This is like eating Lays Potato Chips. I just can't put the blog post down!"</em></p><p><strong>–Darrell</strong></p>
         </div>
-                <div class="col span_1_of_4">
+                <div class="col span_1_of_4" >
     <p><em>"I’m discovering this after over 20 years of writing. Thank you for laying out a road map for me to take my blog to the next level."</em></p><p><strong>–Leilani</strong></p>
         </div>
                 <div class="col span_1_of_4">
@@ -100,7 +99,7 @@ layout: default
         
 </div>        
 </div>
-<div style="background-color:#f7f7f7;padding: 3% 20% 0.67em 20%;"><div class="backgroundclip" style="text-align:center;"><h1>Blog</h1></div></div>
+
 
           <div class="posts">
     {% for post in paginator.posts %}
