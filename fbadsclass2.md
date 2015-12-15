@@ -51,12 +51,12 @@ img_preview: /img/fbadsclass-thumb.png
  
  &nbsp;
  
- <div class="section group">
+ <div class="section group" style="width:80%;margin-left:auto;margin-right:auto;">
  
  <div class="col span_1_of_2">
   
    <div class="yellow-border-box">
-   <h5><img src="http://1.gravatar.com/avatar/d797304cb3270594ae43974d30a5b406?s=96&d=mm&r=g" class="avatar" style="margin-top:4px;"><em>"By following your recommendations, I went from 90 to more than 1,000 subscribers to my blog in approx. 3 months."</em></h5><p style="text-align:right;" class="small">Ángel Candelaria<br>AngelCandelaria.com</p>
+   <h5><img src="http://1.gravatar.com/avatar/d797304cb3270594ae43974d30a5b406?s=96&d=mm&r=g" class="avatar" style="margin-top:4px;"><em>"Following your recommendations, I went from 90 to more than 1,000 subscribers to my blog in approx. 3 months."</em></h5><p style="text-align:right;" class="small">Ángel Candelaria<br>AngelCandelaria.com</p>
   </div>
   
   </div>
@@ -69,11 +69,6 @@ img_preview: /img/fbadsclass-thumb.png
   
 </div>
 
-&nbsp;
-
-
-
- 
 
 <div style="height:500px;"></div>
 
