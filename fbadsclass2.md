@@ -16,7 +16,7 @@ img_preview: /img/fbadsclass-thumb.png
 
 <div class="ck_form_content">
 
-<p>Take my FREE MINI COURSE to start growing your email list on autopilot with cheap Facebook ads.</p>
+<p>Take my FREE MINI COURSE to start growing your email list on autopilot using cheap Facebook ads.</p>
 
 </div>
 

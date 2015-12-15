@@ -6,25 +6,24 @@ hide: true
 noindex: true
 ---
 
-<div class="container-fluid">
-            <div id="invite-header" class="row">
-                    <h2>Thank you. Your stuff is on the way!</h2>
-                    <p>Please check your email for a message from me within the next few minutes.</p>
-            </div>
+<div class="padding-regular" style="background:#f7f7f7;">
 
-<div class="columns group">
+                    <h2>Thanks. Your stuff is on the way!</h2>
+
+
+<div class="section group" style="text-align: left;">
     <div class="col span_1_of_2">
         <img src="/img/cellphone-vert.jpg">
     </div> 
     <div class="col span_1_of_2">
         <div class="bubble-left">
-        <div class="text-align-left"><h3>Here's how to make sure you get your stuff:</h3>
-        <p><strong>Step 1.</strong> Go to your inbox and find the email from me (Mary Fernandez). It might be in the "Promotions" tab if you use Gmail.</p><p><strong>Step 2.</strong> Open the email and click on the blue button.</p><p><strong>Step 3.</strong> If you found the email in your Promotions tab, drag and drop it into your Inbox tab.</p></div>
+        <p style="margin-bottom:0px;">This is me, Mary, sending you an email. Here's how to make sure you get it...</p>
         </div>
+        &nbsp;
+        <p><strong>Step 1.</strong> Go to your inbox and find the email from me, <em>Mary Fernandez</em>. (It might be hidden inside the Promotions tab if you use Gmail.)</p><p><strong>Step 2.</strong> If you found the email in your Promotions tab, drag and drop it into your Inbox tab.</p><p><strong>Step 3.</strong> Open up the email and click on the button to access your free gift, course, webinar, or whatever you signed up for.</p>
     </div>
 </div>
           
         
-</div>
 
-<div class="padding-regular">&nbsp;</div>
+</div>
