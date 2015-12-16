@@ -175,6 +175,26 @@ p.gray-back {
     text-align: left;
 }
 
+.subway-box {
+    padding: 3% 5%;
+    margin-bottom: 1em;
+    text-align: left;
+    background-image: url('/img/subway.png');
+    border-radius: 10px;
+}
+
+.cherub-frame {
+    padding: 5% 10%;
+    height: 300px;
+    margin-bottom: 0.2em;
+    text-align: left;
+    background: url('/img/cherub-frame.jpg') no-repeat center center; 
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+}
+
 .yellow-border-box {
     border: 3px solid #ecf05c;
     padding: 3% 5%;
@@ -521,6 +541,19 @@ button {
 
 .opt-in .button-large:hover {
     color: #fff !important;
+}
+
+.cta-button {
+    font-size: 24px;
+    font-weight: 700;
+    padding: 24px 1.9em !important;
+    background-color: #363ABD;
+    color: #fff;
+    border-color: #363ABD !important;
+}
+.cta-button:hover {
+    background-color: #fff !important;
+    color: #363ABD !important;
 }
 
 .green-button {
