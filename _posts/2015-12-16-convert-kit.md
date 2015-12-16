@@ -36,7 +36,7 @@ Granted, they're not perfect. NO email solution is perfect. However, I believe C
 
 So, are you ready to see if you and ConvertKit are a match made in heaven? Here's how to determine whether you're ready to kiss your old email service goodbye...
 
-<h2>1. You Need to Deliver Multiple Opt-In Incentives</h2>
+<h2>1. You Have Multiple Opt-In Incentives</h2>
 
 <p>Have you ever tried to deliver more than one opt-in incentive (a.k.a. "lead magnet") with MailChimp or Aweber? It's ridiculously complicated, right?</p>
 
