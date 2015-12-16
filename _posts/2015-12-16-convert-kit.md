@@ -123,6 +123,8 @@ So, are you ready to see if you and ConvertKit are a match made in heaven? Here'
 
 <p>Similarly, you can <em>exclude</em> customers from receiving sales emails after they have purchased.</p>
 
+<p>At first glance, you may be thinking that MailChimp does the same thing. And it does... sort of. But when it comes to triggering autoresponder sequences according to these rules, it just feels way easier and simpler with ConvertKit, and the possibilities for what you can do seem almost endless.</p>
+
 <p>Here are the integrations that are currently available (I'm sure many more will be added down the road):</p>
 
 <img src="/img/convertkit9.png">
