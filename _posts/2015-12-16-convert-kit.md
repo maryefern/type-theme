@@ -3,6 +3,8 @@ layout: post
 title: 7 Reasons to Break Up With Your Email Provider and Say "Yes" to ConvertKit
 ---
 
+<img src="/img/cupid.gif" class="image-right">
+
 Does your email software make you want to rip your hair out? I know the feeling...
 
 For nearly 5 years, I was a loyal <a href="http://mailchimp.com/">MailChimp</a> customer. I was charmed by their beautifully designed user experience, and we got along together... for a while.
