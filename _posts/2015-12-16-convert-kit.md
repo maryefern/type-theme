@@ -58,7 +58,7 @@ So, are you ready to see if you and ConvertKit are a match made in heaven? Here'
 
 <img src="/img/convertkit1.png">
 
-<h2>3. Creating & Sending Autoresponders Gives You the Heebie-Jeebies</h2>
+<h2>3. Creating & Sending Autoresponders is Giving You the Heebie-Jeebies</h2>
 
 <p>What if you wanted to send a general welcome series to all your subscribers, but you also want to send a specific autoresponder to each person, depending on where they opted in?</p>
 
@@ -76,7 +76,7 @@ So, are you ready to see if you and ConvertKit are a match made in heaven? Here'
 
 <img src="/img/convertkit4.png">
 
-<h2>4. You'd Love a Built-In Landing Page Creator</h2>
+<h2>4. You'd L-O-V-E a Built-In Landing Page Creator</h2>
 
 <p>Yes, you can create landing pages with ConvertKit. Try to compete with that, MailChimp!</p>
 
@@ -117,7 +117,7 @@ So, are you ready to see if you and ConvertKit are a match made in heaven? Here'
 
 <img src="/img/convertkit8.png">
 
-<h2>7. You Want to Give Special Treatment to Paying Customers</h2>
+<h2>7. Your Paying Customers Deserve Special Treatment</h2>
 
 <p>ConvertKit has a number of integrations that allow you to send autoresponders or one-off broadcasts specifically to people who have purchased your product. This can come in handy for thanking customers for purchasing, or pitching a higher-end product later.</p>
 
