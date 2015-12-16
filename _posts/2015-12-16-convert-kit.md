@@ -123,6 +123,8 @@ So, are you ready to see if you and ConvertKit are a match made in heaven? Here'
 
 <p>Similarly, you can <em>exclude</em> customers from receiving sales emails after they have purchased.</p>
 
+<p>Here are the integrations that are currently available (I'm sure many more will be added down the road):</p>
+
 <img src="/img/convertkit9.png">
 
 <h2>Yet Another Reason to Love ConvertKit...</h2>
