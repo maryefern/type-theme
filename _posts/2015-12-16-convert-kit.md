@@ -86,7 +86,7 @@ So, are you ready to see if you and ConvertKit are a match made in heaven? Here'
 
 <img src="/img/convertkit5.png">
 
-<h2>5. You Want to Check Conversion Rates & Create Campaigns</h2>
+<h2>5. You Need to Check Conversion Rates & Create Campaigns</h2>
 
 <p>This is something that is terrible in MailChimp, but ConvertKit excels at it: statistics for every opt-in form!</p>
 <p>For example, I can see that currently my homepage is converting at only 4.5%, whereas my Blog Growth Blueprint landing page is converting at 37.8%:</p>
