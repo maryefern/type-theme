@@ -16,7 +16,7 @@ img_preview: /img/fbadsclass-thumb.png
 
 <div class="ck_form_content">
 
-<p>In this free mini course, you'll discover how to use cheap Facebook ads to get your first 500+ subscribers without lifting a finger. (Yes, you have permission to laze around all day.)</p>
+<p>In this free mini course, you'll discover how to use cheap Facebook ads to get your first 500+ subscribers, without lifting a finger. (Yes, you have permission to laze around all day.)</p>
 
 </div>
 
