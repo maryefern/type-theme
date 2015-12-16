@@ -8,7 +8,7 @@ img_preview: /img/fbadsclass-thumb.png
 
 <div class="fb-landing">
 <h3>FREE FACEBOOK ADS TRAINING:</h3>
-<h1>Discover how to get the subscribers rollin' in... while you laze around all day.</h1>
+<h1>Set your email list growth to autopilot.</h1>
 
 <script src="https://app.convertkit.com/assets/CKJS4.js?v=21"></script>
 
@@ -16,7 +16,7 @@ img_preview: /img/fbadsclass-thumb.png
 
 <div class="ck_form_content">
 
-<p>Take my FREE MINI COURSE to start growing your email list on autopilot using cheap Facebook ads.</p>
+<p>In this free mini course, you'll discover how to use cheap Facebook ads to get your first 500+ subscribers without lifting a finger. (Yes, you have permission to laze around all day.)</p>
 
 </div>
 
