@@ -4,6 +4,8 @@ title: The Epic List of Guest Blogging Opportunities
 permalink: /guest-blogging-list/
 hide: true
 img_preview: /img/guestblogginglist-thumb.png
+redirect_to:
+    - http://maryfernandez.co/guest-blogging/
 ---
 
 <!--social-->
