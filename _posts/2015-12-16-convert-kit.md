@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 7 Reasons to Break Up With Your Email Provider and Say "Yes" to ConvertKit
+redirect_to:
+    - http://maryfernandez.co/blog/convert-kit/
 ---
 
 <img src="/img/cupid.gif" class="image-right">
